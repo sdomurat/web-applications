@@ -22,5 +22,5 @@
 
 ## LaTeX
 
-* [XeLaTeX mgr](]https://github.com/wbzyl/xelatex-mgr) –
+* [XeLaTeX mgr](https://github.com/wbzyl/xelatex-mgr) –
   praca magisterska w LaTeX-u
