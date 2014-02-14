@@ -18,3 +18,9 @@
 
 1. Docker
 2. ...
+
+
+## LaTeX
+
+* [XeLaTeX mgr](]https://github.com/wbzyl/xelatex-mgr) –
+  praca magisterska w LaTeX-u
