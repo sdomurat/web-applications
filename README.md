@@ -62,6 +62,6 @@
 
 ## Docker & LXC
 
-* [](https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/)
-
-
+* [LXC 1.0: Blog post series [0/10]](https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/)
+* [What does Docker add to just plain LXC?](http://stackoverflow.com/questions/17989306/what-does-docker-add-to-just-plain-lxc)
+* [How is Docker.io different from a normal virtual machine?](http://stackoverflow.com/questions/16047306/how-is-docker-io-different-from-a-normal-virtual-machine)
