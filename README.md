@@ -12,6 +12,7 @@
 10. Motławski Mateusz
 11. Plichta Oskar
 12. Sott Tomasz
+13. Zawodny Paweł
 
 
 ## Referaty
