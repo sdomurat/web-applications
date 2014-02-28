@@ -39,7 +39,7 @@
   praca magisterska w LaTeX-u
 * prezentacje przygotowujemy korzystając z [Slides](http://slid.es/)
   lub to samo, ale wpisujemy slajdy samemu korzystając z [Reveal.js](http://lab.hakim.se/reveal-js/)
-  (w zasadzie można użyć dowolnego narzędzia do tworzenia/generowania
+  (w zasadzie można użyć dowolnego narzędzia do tworzenia/generowania
   *browsable slides*)
 
 
