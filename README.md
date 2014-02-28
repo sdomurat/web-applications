@@ -16,7 +16,7 @@
 
 ## Referaty
 
-**6.03.2014**:
+**6.03.2014**, lab. 210, g. 10.15:
 
 * Jakub Dąbkowski, „Start-up to brzmi dumnie ale …”: 
   - tworzeniem projektów/startupów webowych
