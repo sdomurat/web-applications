@@ -16,14 +16,31 @@
 
 ## Referaty
 
-1. Docker
-2. ...
+**6.03.2014**:
+
+* Jakub Dąbkowski, *Start-up to brzmi dumnie ale … *: 
+  - tworzeniem projektów/startupów webowych
+  * technologii
+  * zarządzania projektami
+  * uzgadniania zakresu projektu
+  * wycen projektów
+  * pozyskanie klientów
+
+**13.03.2014**:
+
+1. Krzysztof Detlaf 
+1. Szymon Domurat
+1. Przemysław Królik
 
 
 ## LaTeX
 
 * [XeLaTeX mgr](https://github.com/wbzyl/xelatex-mgr) –
   praca magisterska w LaTeX-u
+* prezentacje przygotowujemy korzystając z [Slides](http://slid.es/)
+  lub to samo, ale wpisujemy slajdy samemu [Reveal.js](http://lab.hakim.se/reveal-js/);
+  w zasadzie można użyć dowolnego narzędzia do tworzenia/generowania
+  *browsable slides*
 
 
 ## HOWTOs
@@ -41,3 +58,10 @@
   - [Git Best Practices](http://sethrobertson.github.io/GitBestPractices/)
   - [On undoing, fixing, or removing commits or mistakes in git](http://sethrobertson.github.io/GitFixUm/fixup.html)
   - [Post-Production Editing using Git](http://sethrobertson.github.io/GitPostProduction/gpp.html)
+
+
+## Docker & LXC
+
+* [](https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/)
+
+
