@@ -18,7 +18,7 @@
 
 **6.03.2014**:
 
-* Jakub Dąbkowski, *Start-up to brzmi dumnie ale … *: 
+* Jakub Dąbkowski, „Start-up to brzmi dumnie ale …”: 
   - tworzeniem projektów/startupów webowych
   * technologii
   * zarządzania projektami
