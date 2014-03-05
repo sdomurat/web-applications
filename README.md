@@ -63,7 +63,7 @@
   - [Post-Production Editing using Git](http://sethrobertson.github.io/GitPostProduction/gpp.html)
 
 
-## Referaty
+## Tematy na referaty
 
 [Web Components](http://w3c.github.io/webcomponents/explainer/):
   1. [Templates](http://w3c.github.io/webcomponents/explainer/#template-section)
