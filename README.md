@@ -68,7 +68,7 @@
     * [HTML’s New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
   1. [Custom Elements](http://w3c.github.io/webcomponents/explainer/#custom-element-section)
     * Eric Bidelman. [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
-    * *MDN*. [Cutsom Elements](https://developer.mozilla.org/en-US/Apps/Tools_and_frameworks/Custom_elements)
+    * *MDN*. [Custom Elements](https://developer.mozilla.org/en-US/Apps/Tools_and_frameworks/Custom_elements)
   1. [Shadow DOM](http://w3c.github.io/webcomponents/explainer/#shadow-dom-section)
     * Dominic Cooney. [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
 
