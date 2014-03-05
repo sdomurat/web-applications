@@ -51,6 +51,8 @@
   - [How to write a good research proposal](http://research.microsoft.com/en-us/um/people/simonpj/papers/Proposal.html)
     (razem z A. Bundy)
   - [How to give a good research talk](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/giving-a-talk-slides.pdf)
+* Jennifer Raff.
+  [How to read and understand a scientific paper: a guide for non-scientists](http://violentmetaphors.com/2013/08/25/how-to-read-and-understand-a-scientific-paper-2/)
 
 
 ## Git
