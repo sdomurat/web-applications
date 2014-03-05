@@ -63,7 +63,7 @@
 
 ## Referaty
 
-1\. [Web Components](http://w3c.github.io/webcomponents/explainer/):
+[Web Components](http://w3c.github.io/webcomponents/explainer/):
   1. [Templates](http://w3c.github.io/webcomponents/explainer/#template-section)
     * [HTML’s New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
   1. [Custom Elements](http://w3c.github.io/webcomponents/explainer/#custom-element-section)
@@ -72,15 +72,16 @@
   1. [Shadow DOM](http://w3c.github.io/webcomponents/explainer/#shadow-dom-section)
     * Dominic Cooney. [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
 
-2\.[Polymer](http://www.polymer-project.org/) – building blocks for the web:
+4\. [Polymer](http://www.polymer-project.org/) – building blocks for the web:
+  * [Difference between Bower and NPM?](http://stackoverflow.com/questions/18641899/difference-between-bower-and-npm)
   * [prism](http://prismjs.com/)
   * [prism-js](https://github.com/addyosmani/prism-js)
 
-3\. LXC:
+5\. LXC:
 
 * [LXC 1.0: Blog post series [0/10]](https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/)
 
-4\. Docker:
+6\. Docker:
 
 * [What does Docker add to just plain LXC?](http://stackoverflow.com/questions/17989306/what-does-docker-add-to-just-plain-lxc)
 * [How is Docker.io different from a normal virtual machine?](http://stackoverflow.com/questions/16047306/how-is-docker-io-different-from-a-normal-virtual-machine)
