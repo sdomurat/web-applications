@@ -19,7 +19,7 @@
 
 **6.03.2014**, lab. 210, g. 10.15:
 
-* Jakub Dąbkowski, „Start-up to brzmi dumnie ale …”: 
+* Jakub Dąbkowski, „Start-up to brzmi dumnie ale …”:
   - tworzeniem projektów/startupów webowych
   * technologii
   * zarządzania projektami
@@ -29,7 +29,7 @@
 
 **13.03.2014**:
 
-1. Krzysztof Detlaf 
+1. Krzysztof Detlaf
 1. Szymon Domurat
 1. Przemysław Królik
 
@@ -61,8 +61,26 @@
   - [Post-Production Editing using Git](http://sethrobertson.github.io/GitPostProduction/gpp.html)
 
 
-## Docker & LXC
+## Referaty
+
+1\. [Web Components](http://w3c.github.io/webcomponents/explainer/):
+  1. [Templates](http://w3c.github.io/webcomponents/explainer/#template-section)
+    * [HTML’s New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
+  1. [Custom Elements](http://w3c.github.io/webcomponents/explainer/#custom-element-section)
+    * Eric Bidelman. [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
+    * *MDN*. [Cutsom Elements](https://developer.mozilla.org/en-US/Apps/Tools_and_frameworks/Custom_elements)
+  1. [Shadow DOM](http://w3c.github.io/webcomponents/explainer/#shadow-dom-section)
+    * Dominic Cooney. [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
+
+2\.[Polymer](http://www.polymer-project.org/) – building blocks for the web:
+  * [prism](http://prismjs.com/)
+  * [prism-js](https://github.com/addyosmani/prism-js)
+
+3\. LXC:
 
 * [LXC 1.0: Blog post series [0/10]](https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/)
+
+4\. Docker:
+
 * [What does Docker add to just plain LXC?](http://stackoverflow.com/questions/17989306/what-does-docker-add-to-just-plain-lxc)
 * [How is Docker.io different from a normal virtual machine?](http://stackoverflow.com/questions/16047306/how-is-docker-io-different-from-a-normal-virtual-machine)
