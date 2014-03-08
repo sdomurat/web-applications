@@ -78,6 +78,8 @@
   * [Difference between Bower and NPM?](http://stackoverflow.com/questions/18641899/difference-between-bower-and-npm)
   * [prism](http://prismjs.com/)
   * [prism-js](https://github.com/addyosmani/prism-js)
+  * [emcee](https://github.com/ahuth/emcee) –
+    package web components in Rails applications using the asset pipeline
 
 5\. LXC:
 
