@@ -30,7 +30,7 @@
 **13.03.2014**:
 
 1. Krzysztof Detlaf
-1. Szymon Domurat
+1. Szymon Domurat Ember.js
 1. Przemysław Królik
 
 
