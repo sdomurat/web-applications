@@ -29,9 +29,28 @@
 
 **13.03.2014**:
 
-1. Krzysztof Detlaf
-1. Szymon Domurat Ember.js
-1. Przemysław Królik
+1. Krzysztof Detlaf, Autoprezentacja
+1. Szymon Domurat, Ember.js
+1. Przemysław Królik, ???
+
+**27.03.2014**:
+
+1. Kubacki Konrad
+1. Kwiatkowski Mateusz
+1. Lewandowska Marta
+
+**3.04.2014**:
+
+1. Małecki Maciej
+1. Matulewski Damian
+1. Motel Mateusz
+
+**10.04.2014**:
+
+1. Motławski Mateusz
+1. Plichta Oskar
+1. Sott Tomasz
+1. Zawodny Paweł
 
 
 ## LaTeX
