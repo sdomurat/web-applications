@@ -30,8 +30,8 @@
 **13.03.2014**:
 
 1. Krzysztof Detlaf, Autoprezentacja
-1. Szymon Domurat, Ember.js
-1. Przemysław Królik, ???
+1. Szymon Domurat, *Ember.js*
+1. Przemysław Królik, Mój pomysł na…
 
 **27.03.2014**:
 
