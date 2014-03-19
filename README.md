@@ -108,3 +108,9 @@
 
 * [What does Docker add to just plain LXC?](http://stackoverflow.com/questions/17989306/what-does-docker-add-to-just-plain-lxc)
 * [How is Docker.io different from a normal virtual machine?](http://stackoverflow.com/questions/16047306/how-is-docker-io-different-from-a-normal-virtual-machine)
+
+Tools for automating development workflow:
+
+[Yeoman](https://github.com/yeoman/yeoman):
+1. Addy Osmani. [Building Web Apps With Yeoman And Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
+1. Shekhar Gulati. [Yeoman Ember--The Missing Tutorial](https://www.openshift.com/blogs/day-24-yeoman-ember-the-missing-tutorial)
