@@ -59,8 +59,10 @@
   praca magisterska w LaTeX-u
 * prezentacje przygotowujemy korzystając z [Slides](http://slid.es/)
   lub to samo, ale wpisujemy slajdy samemu korzystając z [Reveal.js](http://lab.hakim.se/reveal-js/)
-  (w zasadzie można użyć dowolnego narzędzia do tworzenia/generowania
-  *browsable slides*)
+  Można użyć dowolnego narzędzia do tworzenia/generowania tzw. *browsable slides*, na przykład
+  [PwrSlide](https://github.com/wvandaal/PwrSlide)
+  ([demo](http://wcvd.me/PwrSlide/), [theming](https://github.com/wvandaal/PwrSlide/tree/master/theme));
+  zob. też wtyczkę [Emmet](http://emmet.io/)
 
 
 ## HOWTOs
