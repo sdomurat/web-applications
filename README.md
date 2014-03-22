@@ -37,7 +37,7 @@
 
 1. Kubacki Konrad
 1. Lewandowska Marta
-1. Motel Mateusz
+1. Motel Mateusz, [*MeteorJS: Observe collection changes*]()
 
 **3.04.2014**:
 
