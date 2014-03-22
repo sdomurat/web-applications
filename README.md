@@ -36,14 +36,14 @@
 **27.03.2014**:
 
 1. Kubacki Konrad
-1. Kwiatkowski Mateusz
 1. Lewandowska Marta
+1. Motel Mateusz
 
 **3.04.2014**:
 
 1. Małecki Maciej
 1. Matulewski Damian
-1. Motel Mateusz
+1. Kwiatkowski Mateusz
 
 **10.04.2014**:
 
