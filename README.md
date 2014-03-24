@@ -119,6 +119,8 @@ Tools for automating development workflow:
 
 8\. Mutation observers, Object observers (JavaScript, Angular, Ember.js):
 
-- [Object observe](http://weblog.bocoup.com/javascript-object-observe/)
+- [Object observe](http://weblog.bocoup.com/javascript-object-observe/);
+  [Fact](https://github.com/rwaldron/fact) –
+  observable, event emitting data objects w/ Object.observe and EventEmitter2 in 2.4k
 - [Mutation summary](https://code.google.com/p/mutation-summary/) –
   a JavaScript library that makes observing changes to the DOM fast, easy and safe
