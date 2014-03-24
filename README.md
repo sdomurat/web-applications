@@ -15,6 +15,10 @@
 13. Zawodny Paweł
 
 
+[Farewell Letter Generator](http://tinysubversions.com/stuff/farewell/) by
+Darius Kazemi.
+
+
 ## Referaty
 
 **6.03.2014**, lab. 210, g. 10.15:
