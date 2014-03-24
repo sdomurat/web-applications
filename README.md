@@ -105,6 +105,7 @@ Darius Kazemi.
   * [prism-js](https://github.com/addyosmani/prism-js)
   * [emcee](https://github.com/ahuth/emcee) –
     package web components in Rails applications using the asset pipeline
+  * [Polymer Sandbox](http://www.polymer-project.org/tools/sandbox/)
 
 5\. LXC:
 
