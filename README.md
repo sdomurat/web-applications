@@ -116,3 +116,8 @@ Tools for automating development workflow:
 [Yeoman](https://github.com/yeoman/yeoman):
 1. Addy Osmani. [Building Web Apps With Yeoman And Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
 1. Shekhar Gulati. [Yeoman Ember--The Missing Tutorial](https://www.openshift.com/blogs/day-24-yeoman-ember-the-missing-tutorial)
+
+8\. *Mutation Observers* (JavaScript, Angular, Ember.js):
+
+- [mutation-summary]() – a JavaScript library that makes observing changes
+  to the DOM fast, easy and safe
