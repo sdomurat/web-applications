@@ -21,7 +21,21 @@ Darius Kazemi.
 [Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/) – interview Vincent Walsh, Prof. Neuroscience UCL.
 
 
-## Referaty
+## Referaty ≈ 20 min
+
+> Idea ⇒ Write paper / Give talk ⇒ Do research
+>
+> Write a paper, and give a talk, about **any idea**,
+> no matter how weedy and insignificant it may seem to you.
+>
+> 1\. Introduce the problem, and your idea, using **examples**
+> and only then present the general case.
+>
+> 2\. Conveing the idea:
+>
+> * explain it as if you were speaking to someone using a whiteboard
+> * conveing the intuition is primary, not secondary
+
 
 **6.03.2014**, lab. 210, g. 10.15:
 
