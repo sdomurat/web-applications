@@ -23,7 +23,7 @@ Darius Kazemi.
 
 ## Referaty ≈ 20 min
 
-> Idea ⇒ Write paper / Give talk ⇒ Do research
+> **Idea ⇒ Write paper / Give talk ⇒ Do research**
 >
 > Write a paper, and give a talk, about **any idea**,
 > no matter how weedy and insignificant it may seem to you.
@@ -32,7 +32,6 @@ Darius Kazemi.
 > and only then present the general case.
 >
 > 2\. Conveing the idea:
->
 > * explain it as if you were speaking to someone using a whiteboard
 > * conveing the intuition is primary, not secondary
 
