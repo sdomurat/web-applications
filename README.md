@@ -129,3 +129,5 @@ Tools for automating development workflow:
   observable, event emitting data objects w/ Object.observe and EventEmitter2 in 2.4k
 - [Mutation summary](https://code.google.com/p/mutation-summary/) –
   a JavaScript library that makes observing changes to the DOM fast, easy and safe
+
+9\. [ES.next showcase](https://github.com/sindresorhus/esnext-showcase).
