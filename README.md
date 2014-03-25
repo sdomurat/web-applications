@@ -18,6 +18,8 @@
 [Farewell Letter Generator](http://tinysubversions.com/stuff/farewell/) by
 Darius Kazemi.
 
+[Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/) – interview Vincent Walsh, Prof. Neuroscience UCL.
+
 
 ## Referaty
 
