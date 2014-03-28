@@ -55,7 +55,7 @@ Darius Kazemi.
 **27.03.2014**:
 
 1. Kubacki Konrad
-1. Lewandowska Marta[Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs)
+1. Lewandowska Marta, Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs)
 1. Motel Mateusz, [*MeteorJS & observe collection changes mechanism*](http://mathewgd.webd.pl/slideshows/meteor-observe-changes/)
 
 **3.04.2014**:
