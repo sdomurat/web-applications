@@ -107,8 +107,8 @@ Vincent Walsh, Prof. Neuroscience UCL (interview).
   - [Post-Production Editing using Git](http://sethrobertson.github.io/GitPostProduction/gpp.html)
 
 
-> During the program life a programmer team possessing its theory<br>
-> remains in active control of the program, and in particular retains<br>
+> During the program life a programmer team possessing its theory
+> remains in active control of the program, and in particular retains
 > control over all modifications.<br>
 > The death of a program happens when
 > the programmer team possessing its theory is dissolved.<br>
