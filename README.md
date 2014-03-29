@@ -1,8 +1,8 @@
 ## Aplikacje Webowe 2
 
-> […] it is concluded that the proper, primary aim of programming is,
-> not to produce programs, but to have the programmers build theories of
-> the manner in which the problems at hand are solved by program execution.
+> […] it is concluded that the proper, primary aim of programming is,<br>
+> not to produce programs, but to have the programmers build theories of<br>
+> the manner in which the problems at hand are solved by program execution.<br>
 > [*Peter Naur*](http://alistair.cockburn.us/ASD+book+extract%3A+%22Naur,+Ehn,+Musashi%22)
 
 1. Detlaf Krzysztof
