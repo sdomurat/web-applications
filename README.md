@@ -1,6 +1,6 @@
 ## Aplikacje Webowe 2
 
-![Peter Naur]images/peter_naur.jpg)
+![Peter Naur](images/peter_naur.jpg)
 
 > […] it is concluded that the proper, primary aim of programming is,<br>
 > not to produce programs, but to have the programmers build theories of<br>
