@@ -1,18 +1,17 @@
 ## Aplikacje Webowe 2
 
 1. Detlaf Krzysztof
-2. Domurat Szymon
-3. Królik Przemysław
-4. Kubacki Konrad
-5. Kwiatkowski Mateusz
-6. Lewandowska Marta
-7. Małecki Maciej
-8. Matulewski Damian
-9. Motel Mateusz
-10. Motławski Mateusz
-11. Plichta Oskar
-12. Sott Tomasz
-13. Zawodny Paweł
+1. Domurat Szymon
+1. Królik Przemysław
+1. Kwiatkowski Mateusz
+1. Lewandowska Marta
+1. Małecki Maciej
+1. Matulewski Damian
+1. Motel Mateusz
+1. Motławski Mateusz
+1. Plichta Oskar
+1. Sott Tomasz
+1. Zawodny Paweł
 
 
 [Farewell Letter Generator](http://tinysubversions.com/stuff/farewell/) by
@@ -48,28 +47,27 @@ Darius Kazemi.
 
 **13.03.2014**:
 
-1. Krzysztof Detlaf, Autoprezentacja
-1. Szymon Domurat, *Ember.js*
-1. Przemysław Królik, Mój pomysł na…
+1. Krzysztof Detlaf. Autoprezentacja.
+1. Szymon Domurat. *Ember.js*.
+1. Przemysław Królik. Mój pomysł na…
 
 **27.03.2014**:
 
-1. Kubacki Konrad
-1. Lewandowska Marta, [*Testing applications with PhantomJS*](http://slid.es/martalewandowska/testing_apps_phantomjs)
-1. Motel Mateusz, [*MeteorJS & observe collection changes mechanism*](http://mathewgd.webd.pl/slideshows/meteor-observe-changes/)
+1. Motel Mateusz. [*MeteorJS & observe collection changes mechanism*](http://mathewgd.webd.pl/slideshows/meteor-observe-changes/).
 
 **3.04.2014**:
 
 1. Małecki Maciej
-1. Matulewski Damian
-1. Kwiatkowski Mateusz
+1. Lewandowska Marta [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs).
+1. Matulewski Damian.
+1. Kwiatkowski Mateusz.
 
 **10.04.2014**:
 
-1. Motławski Mateusz
-1. Plichta Oskar
-1. Sott Tomasz
-1. Zawodny Paweł
+1. Motławski Mateusz.
+1. Plichta Oskar.
+1. Sott Tomasz.
+1. Zawodny Paweł.
 
 
 ## LaTeX
