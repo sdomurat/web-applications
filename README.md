@@ -1,5 +1,10 @@
 ## Aplikacje Webowe 2
 
+> […] it is concluded that the proper, primary aim of programming is,
+> not to produce programs, but to have the programmers build theories of
+> the manner in which the problems at hand are solved by program execution.
+> [*Peter Naur*](http://alistair.cockburn.us/ASD+book+extract%3A+%22Naur,+Ehn,+Musashi%22)
+
 1. Detlaf Krzysztof
 1. Domurat Szymon
 1. Królik Przemysław
@@ -101,6 +106,17 @@ Vincent Walsh, Prof. Neuroscience UCL (interview).
   - [On undoing, fixing, or removing commits or mistakes in git](http://sethrobertson.github.io/GitFixUm/fixup.html)
   - [Post-Production Editing using Git](http://sethrobertson.github.io/GitPostProduction/gpp.html)
 
+
+> During the program life a programmer team possessing its theory
+> remains in active control of the program, and in particular retains
+> control over all modifications. The death of a program happens when
+> the programmer team possessing its theory is dissolved. A dead program
+> may continue to be used for execution in a computer and to produce
+> useful results. The actual state of death becomes visible when demands
+> for modifications of the program cannot be intelligently
+> answered. Revival of a program is the rebuilding of its theory by a
+> new programmer team.
+> *Peter Naur*
 
 ## Tematy na referaty
 
