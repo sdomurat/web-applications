@@ -107,15 +107,15 @@ Vincent Walsh, Prof. Neuroscience UCL (interview).
   - [Post-Production Editing using Git](http://sethrobertson.github.io/GitPostProduction/gpp.html)
 
 
-> During the program life a programmer team possessing its theory
-> remains in active control of the program, and in particular retains
-> control over all modifications. The death of a program happens when
-> the programmer team possessing its theory is dissolved. A dead program
-> may continue to be used for execution in a computer and to produce
+> During the program life a programmer team possessing its theory<br>
+> remains in active control of the program, and in particular retains<br>
+> control over all modifications.<br>
+> The death of a program happens when
+> the programmer team possessing its theory is dissolved.<br>
+> A dead program may continue to be used for execution in a computer and to produce
 > useful results. The actual state of death becomes visible when demands
-> for modifications of the program cannot be intelligently
-> answered. Revival of a program is the rebuilding of its theory by a
-> new programmer team.
+> for modifications of the program cannot be intelligently answered.<br>
+> Revival of a program is the rebuilding of its theory by a new programmer team.<br>
 > *Peter Naur*
 
 ## Tematy na referaty
