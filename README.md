@@ -65,7 +65,7 @@ Vincent Walsh, Prof. Neuroscience UCL (interview).
 
 **3.04.2014**:
 
-1. Małecki Maciej. Background Processing and Queueing with Sidekiq.
+1. Małecki Maciej. [Background Processing and Queueing with Sidekiq](http://smefju.pl/presentations/sidekiq/index.html).
 1. Lewandowska Marta [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs).
 1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker).
 1. Kwiatkowski Mateusz.
