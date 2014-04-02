@@ -67,7 +67,7 @@ Vincent Walsh, Prof. Neuroscience UCL (interview).
 
 1. Małecki Maciej. Background Processing and Queueing with Sidekiq.
 1. Lewandowska Marta [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs).
-1. Matulewski Damian.
+1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker).
 1. Kwiatkowski Mateusz.
 
 **10.04.2014**:
@@ -122,14 +122,19 @@ Vincent Walsh, Prof. Neuroscience UCL (interview).
 
 ## Tematy na referaty
 
-[Web Components](http://w3c.github.io/webcomponents/explainer/):
-  1. [Templates](http://w3c.github.io/webcomponents/explainer/#template-section)
-    * [HTML’s New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
-  1. [Custom Elements](http://w3c.github.io/webcomponents/explainer/#custom-element-section)
-    * Eric Bidelman. [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
-    * *MDN*. [Custom Elements](https://developer.mozilla.org/en-US/Apps/Tools_and_frameworks/Custom_elements)
-  1. [Shadow DOM](http://w3c.github.io/webcomponents/explainer/#shadow-dom-section)
-    * Dominic Cooney. [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
+[Web Components](http://w3c.github.io/webcomponents/explainer/) –
+[The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/)
+by Addy Osmani.
+
+1. Peter Gasston.
+  [A Detailed Introduction To Custom Elements](http://coding.smashingmagazine.com/2014/03/04/introduction-to-custom-elements/)
+1. [Templates](http://w3c.github.io/webcomponents/explainer/#template-section)
+  * [HTML’s New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
+1. [Custom Elements](http://w3c.github.io/webcomponents/explainer/#custom-element-section)
+  * Eric Bidelman. [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
+  * *MDN*. [Custom Elements](https://developer.mozilla.org/en-US/Apps/Tools_and_frameworks/Custom_elements)
+1. [Shadow DOM](http://w3c.github.io/webcomponents/explainer/#shadow-dom-section)
+  * Dominic Cooney. [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
 
 4\. [Polymer](http://www.polymer-project.org/) – building blocks for the web:
   * [Difference between Bower and NPM?](http://stackoverflow.com/questions/18641899/difference-between-bower-and-npm)
