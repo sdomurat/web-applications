@@ -75,7 +75,7 @@ Vincent Walsh, Prof. Neuroscience UCL (interview).
 **10.04.2014**:
 
 1. Motławski Mateusz.
-1. Plichta Oskar.
+1. Plichta Oskar. [PicDrop - Mój pomysł na pracę magisterską](http://slid.es/oplichta/picdrop) 
 1. Sott Tomasz.
 1. Zawodny Paweł.
 
