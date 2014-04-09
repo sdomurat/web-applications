@@ -68,7 +68,7 @@ Vincent Walsh, Prof. Neuroscience UCL (interview).
 1. Małecki Maciej. [Background Processing and Queueing with Sidekiq](http://smefju.pl/presentations/sidekiq/index.html).
 1. Lewandowska Marta [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs).
 1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker).
-1. Kwiatkowski Mateusz. [Indeks](http://slid.es/mateuszkwiatkowski/e-indeks):
+1. Kwiatkowski Mateusz. [Indeks](http://slid.es/mateuszkwiatkowski/e-indeks).
    - [University Web](https://github.com/madebydna/university-web).
 
 
