@@ -140,53 +140,47 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 
 ## Tematy na prace magisterskie
 
-[Web Components](http://w3c.github.io/webcomponents/explainer/) –
+1\. [Web Components](http://w3c.github.io/webcomponents/explainer/) –
 [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/)
 by Addy Osmani.
-
-1. Peter Gasston.
+- Peter Gasston.
   [A Detailed Introduction To Custom Elements](http://coding.smashingmagazine.com/2014/03/04/introduction-to-custom-elements/)
-1. [Templates](http://w3c.github.io/webcomponents/explainer/#template-section)
-  * [HTML’s New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
-1. [Custom Elements](http://w3c.github.io/webcomponents/explainer/#custom-element-section)
+- [Templates](http://w3c.github.io/webcomponents/explainer/#template-section)
+  *  [HTML’s New Template Tag](http://www.html5rocks.com/en/tutorials/webcomponents/template/)
+- [Custom Elements](http://w3c.github.io/webcomponents/explainer/#custom-element-section)
   * Eric Bidelman. [Custom Elements](http://www.html5rocks.com/en/tutorials/webcomponents/customelements/)
   * *MDN*. [Custom Elements](https://developer.mozilla.org/en-US/Apps/Tools_and_frameworks/Custom_elements)
-1. [Shadow DOM](http://w3c.github.io/webcomponents/explainer/#shadow-dom-section)
+- [Shadow DOM](http://w3c.github.io/webcomponents/explainer/#shadow-dom-section)
   * Dominic Cooney. [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
 
-4\. [Polymer](http://www.polymer-project.org/) – building blocks for the web:
-  * [Difference between Bower and NPM?](http://stackoverflow.com/questions/18641899/difference-between-bower-and-npm)
-  * [prism](http://prismjs.com/)
-  * [prism-js](https://github.com/addyosmani/prism-js)
-  * [emcee](https://github.com/ahuth/emcee) –
-    package web components in Rails applications using the asset pipeline
-  * [Polymer Sandbox](http://www.polymer-project.org/tools/sandbox/)
+2\. [Polymer](http://www.polymer-project.org/) – building blocks for the WEB:
+* [Difference between Bower and NPM?](http://stackoverflow.com/questions/18641899/difference-between-bower-and-npm)
+* [prism](http://prismjs.com/)
+* [prism-js](https://github.com/addyosmani/prism-js)
+* [emcee](https://github.com/ahuth/emcee) –
+  package web components in Rails applications using the asset pipeline
+* [Polymer Sandbox](http://www.polymer-project.org/tools/sandbox/)
 
-5\. LXC:
-
+3\. LXC:
 * [LXC 1.0: Blog post series [0/10]](https://www.stgraber.org/2013/12/20/lxc-1-0-blog-post-series/)
 
-6\. Docker:
-
+4\. Docker:
 * [What does Docker add to just plain LXC?](http://stackoverflow.com/questions/17989306/what-does-docker-add-to-just-plain-lxc)
 * [How is Docker.io different from a normal virtual machine?](http://stackoverflow.com/questions/16047306/how-is-docker-io-different-from-a-normal-virtual-machine)
 
-Tools for automating development workflow:
-
-8\. [Yeoman](https://github.com/yeoman/yeoman):
-
+5\. Tools for automating development workflow:
+- [Yeoman](https://github.com/yeoman/yeoman):
 - Addy Osmani. [Building Web Apps With Yeoman And Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
 - Shekhar Gulati. [Yeoman Ember--The Missing Tutorial](https://www.openshift.com/blogs/day-24-yeoman-ember-the-missing-tutorial)
 
-8\. Mutation observers, Object observers (JavaScript, Angular, Ember.js):
-
+6\. Mutation observers, Object observers (JavaScript, Angular, Ember.js):
 - [Object observe](http://weblog.bocoup.com/javascript-object-observe/);
   [Fact](https://github.com/rwaldron/fact) –
   observable, event emitting data objects w/ Object.observe and EventEmitter2 in 2.4k
 - [Mutation summary](https://code.google.com/p/mutation-summary/) –
   a JavaScript library that makes observing changes to the DOM fast, easy and safe
 
-9\. [ES.next showcase](https://github.com/sindresorhus/esnext-showcase).
+7\. [ES.next showcase](https://github.com/sindresorhus/esnext-showcase).
 
 
 ## Różne rzeczy
