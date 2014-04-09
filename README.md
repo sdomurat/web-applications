@@ -7,7 +7,11 @@
 > the manner in which the problems at hand are solved by program execution.<br>
 > [*Peter Naur*](http://alistair.cockburn.us/ASD+book+extract%3A+%22Naur,+Ehn,+Musashi%22)
 
-1. Detlaf Krzysztof
+### TODO
+
+W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
+
+1. Detlaf Krzysztof. *Tytuł pracy*
 1. Domurat Szymon
 1. Królik Przemysław
 1. Kwiatkowski Mateusz
@@ -19,13 +23,6 @@
 1. Plichta Oskar
 1. Sott Tomasz
 1. Zawodny Paweł
-
-
-[Farewell Letter Generator](http://tinysubversions.com/stuff/farewell/) by
-Darius Kazemi.
-
-[Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/) –
-Vincent Walsh, Prof. Neuroscience UCL (interview).
 
 
 ## Referaty ≈ 20 min
@@ -141,7 +138,7 @@ Vincent Walsh, Prof. Neuroscience UCL (interview).
 > Revival of a program is the rebuilding of its theory by a new programmer team.<br>
 > *Peter Naur*
 
-## Tematy na referaty
+## Tematy na prace magisterskie
 
 [Web Components](http://w3c.github.io/webcomponents/explainer/) –
 [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/)
@@ -190,3 +187,9 @@ Tools for automating development workflow:
   a JavaScript library that makes observing changes to the DOM fast, easy and safe
 
 9\. [ES.next showcase](https://github.com/sindresorhus/esnext-showcase).
+
+
+## Różne rzeczy
+
+1. [Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/) – Vincent Walsh, Prof. Neuroscience UCL (interview).
+1. [Farewell Letter Generator](http://tinysubversions.com/stuff/farewell/) by Darius Kazemi.
