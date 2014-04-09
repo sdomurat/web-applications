@@ -167,6 +167,11 @@ by Addy Osmani.
 4\. Docker:
 * [What does Docker add to just plain LXC?](http://stackoverflow.com/questions/17989306/what-does-docker-add-to-just-plain-lxc)
 * [How is Docker.io different from a normal virtual machine?](http://stackoverflow.com/questions/16047306/how-is-docker-io-different-from-a-normal-virtual-machine)
+* [Docker in education: From VMs to Containers](http://blog.docker.io/2014/04/docker-in-education-interview/)
+* Using Docker for MOOCs:
+  - [part 1](http://mjbright.blogspot.fr/2014/04/using-docker-for-moocs-part-1.html)
+* Marconi moreto.
+  [Introduction to Docker](https://speakerdeck.com/marconi/introduction-to-docker)
 
 5\. Tools for automating development workflow:
 - [Yeoman](https://github.com/yeoman/yeoman)
