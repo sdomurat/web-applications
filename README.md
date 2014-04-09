@@ -66,16 +66,35 @@ Vincent Walsh, Prof. Neuroscience UCL (interview).
 **3.04.2014**:
 
 1. Małecki Maciej. [Background Processing and Queueing with Sidekiq](http://smefju.pl/presentations/sidekiq/index.html).
-1. Lewandowska Marta [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs).
 1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker).
 1. Kwiatkowski Mateusz. [Indeks](http://slid.es/mateuszkwiatkowski/e-indeks).
    - [University Web](https://github.com/madebydna/university-web).
-
 
 **10.04.2014**:
 
 1. Motławski Mateusz. [Blaze – Live Template Engine](http://slides.com/miotla007/meteor-js)
 1. Plichta Oskar. [PicDrop](http://slid.es/oplichta/picdrop)
+1. Sott Tomasz.
+1. Zawodny Paweł.
+
+**??.04.2014**:
+
+1. Motel Mateusz.
+1. Szymon Domurat.
+1. Krzysztof Detlaf.
+1. Przemysław Królik.
+
+**??.05.2014**:
+
+1. Małecki Maciej.
+1. Lewandowska Marta. [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs).
+1. Matulewski Damian.
+1. Kwiatkowski Mateusz.
+
+**??.05.2014**:
+
+1. Motławski Mateusz.
+1. Plichta Oskar.
 1. Sott Tomasz.
 1. Zawodny Paweł.
 
