@@ -61,21 +61,21 @@ Vincent Walsh, Prof. Neuroscience UCL (interview).
 
 **27.03.2014**:
 
-1. Motel Mateusz. [*MeteorJS & observe collection changes mechanism*](http://mathewgd.webd.pl/slideshows/meteor-observe-changes/).
+1. Motel Mateusz. [MeteorJS & Observe Collection Changes Mechanism](http://mathewgd.webd.pl/slideshows/meteor-observe-changes/).
 
 **3.04.2014**:
 
 1. Małecki Maciej. [Background Processing and Queueing with Sidekiq](http://smefju.pl/presentations/sidekiq/index.html).
 1. Lewandowska Marta [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs).
 1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker).
-1. Kwiatkowski Mateusz. [Mój pomysł na pracę magisterską](http://slid.es/mateuszkwiatkowski/e-indeks) –
-   ciekawy projekt [University Web](https://github.com/madebydna/university-web).
+1. Kwiatkowski Mateusz. [Indeks](http://slid.es/mateuszkwiatkowski/e-indeks):
+   - [University Web](https://github.com/madebydna/university-web).
 
 
 **10.04.2014**:
 
-1. Motławski Mateusz. [MeteorJS - Blaze](http://slides.com/miotla007/meteor-js)
-1. Plichta Oskar. [PicDrop - Mój pomysł na pracę magisterską](http://slid.es/oplichta/picdrop) 
+1. Motławski Mateusz. [Blaze – Live Template Engine](http://slides.com/miotla007/meteor-js)
+1. Plichta Oskar. [PicDrop](http://slid.es/oplichta/picdrop)
 1. Sott Tomasz.
 1. Zawodny Paweł.
 
