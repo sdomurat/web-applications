@@ -169,7 +169,7 @@ by Addy Osmani.
 * [How is Docker.io different from a normal virtual machine?](http://stackoverflow.com/questions/16047306/how-is-docker-io-different-from-a-normal-virtual-machine)
 
 5\. Tools for automating development workflow:
-- [Yeoman](https://github.com/yeoman/yeoman):
+- [Yeoman](https://github.com/yeoman/yeoman)
 - Addy Osmani. [Building Web Apps With Yeoman And Polymer](http://www.html5rocks.com/en/tutorials/webcomponents/yeoman/)
 - Shekhar Gulati. [Yeoman Ember--The Missing Tutorial](https://www.openshift.com/blogs/day-24-yeoman-ember-the-missing-tutorial)
 
@@ -181,6 +181,7 @@ by Addy Osmani.
   a JavaScript library that makes observing changes to the DOM fast, easy and safe
 
 7\. [ES.next showcase](https://github.com/sindresorhus/esnext-showcase).
+- [Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
 
 
 ## Różne rzeczy
