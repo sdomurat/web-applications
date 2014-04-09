@@ -138,7 +138,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 > Revival of a program is the rebuilding of its theory by a new programmer team.<br>
 > *Peter Naur*
 
-## Tematy na prace magisterskie
+## Technologie do wykorzytania w aplikacjach webowych
 
 1\. [Web Components](http://w3c.github.io/webcomponents/explainer/) –
 [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/)
