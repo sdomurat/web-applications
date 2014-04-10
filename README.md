@@ -71,8 +71,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 
 1. Motławski Mateusz. [Blaze – Live Template Engine](http://slides.com/miotla007/meteor-js)
 1. Plichta Oskar. [PicDrop](http://slid.es/oplichta/picdrop)
-1. Sott Tomasz. [FAV, WAYPO!NTZ](http://slides.com/supersott/pomysl_na).
-1. Zawodny Paweł.
+1. Sott Tomasz. [FAV, WAYPO!NTZ](http://slides.com/supersott/pomysl_na)
 
 **24.04.2014**:
 
