@@ -92,7 +92,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 
 1. Motławski Mateusz.
 1. Plichta Oskar.
-1. Sott Tomasz.
+1. Sott Tomasz. [Pomysł na](http://slides.com/supersott/pomysl_na). 
 1. Zawodny Paweł.
 
 
