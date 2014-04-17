@@ -54,6 +54,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 
 1. Krzysztof Detlaf. Autoprezentacja.
 1. Szymon Domurat. *Ember.js*.
+  - [Testing](http://emberjs.com/guides/testing/)
 1. Przemysław Królik. Mój pomysł na…
 
 **27.03.2014**:
@@ -66,6 +67,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker).
 1. Kwiatkowski Mateusz. [Indeks](http://slid.es/mateuszkwiatkowski/e-indeks).
    - [University Web](https://github.com/madebydna/university-web).
+   - [EdX](https://github.com/edx)
 
 **10.04.2014**:
 
