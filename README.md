@@ -77,19 +77,23 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 
 **24.04.2014**:
 
+Seminarium odwołane.
+
+**08.05.2014**:
+
 1. Motel Mateusz.
 1. Szymon Domurat. [MEGA-Miejsca](http://slides.com/szymon-1/pomysl)
 1. Krzysztof Detlaf.
 1. Przemysław Królik.
 
-**08.05.2014**:
+**15.05.2014**:
 
 1. Małecki Maciej.
 1. Lewandowska Marta. [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs).
 1. Matulewski Damian.
 1. Kwiatkowski Mateusz.
 
-**15.05.2014**:
+**22.05.2014**:
 
 1. Motławski Mateusz.
 1. Plichta Oskar.
