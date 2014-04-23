@@ -76,7 +76,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 1. Sott Tomasz. [FAV, WAYPO!NTZ](http://slides.com/supersott/pomysl_na)
 
 > The first draft of anything is shit.<br>
-> *Ernest Hemingway*
+> [Ernest Hemingway](https://the-pastry-box-project.net/addy-osmani/2014-april-22)
 
 **24.04.2014**:
 
