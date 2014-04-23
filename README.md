@@ -78,7 +78,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 **24.04.2014**:
 
 1. Motel Mateusz.
-1. Szymon Domurat.
+1. Szymon Domurat. [MEGA-Miejsca](http://slides.com/szymon-1/pomysl)
 1. Krzysztof Detlaf.
 1. Przemysław Królik.
 
