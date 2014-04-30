@@ -64,8 +64,9 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 **3.04.2014**:
 
 1. Małecki Maciej. [Background Processing and Queueing with Sidekiq](http://smefju.pl/presentations/sidekiq/index.html).
-1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker).
-1. Kwiatkowski Mateusz. [Indeks](http://slid.es/mateuszkwiatkowski/e-indeks).
+1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker):
+   - [How Docker Was Born](http://blog.leanstack.io/how-docker-was-born)
+1. Kwiatkowski Mateusz. [Indeks](http://slid.es/mateuszkwiatkowski/e-indeks):
    - [University Web](https://github.com/madebydna/university-web).
    - [EdX](https://github.com/edx)
 
