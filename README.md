@@ -199,7 +199,8 @@ by Addy Osmani.
 
 7\. [ES.next showcase](https://github.com/sindresorhus/esnext-showcase).
 - [Promises](http://www.html5rocks.com/en/tutorials/es6/promises/)
-
+- Matt Greer.
+  [JavaScript Promises … In Wicked Detail](http://mattgreer.org/articles/promises-in-wicked-detail/)
 
 ## Różne rzeczy
 
