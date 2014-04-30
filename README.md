@@ -180,8 +180,10 @@ by Addy Osmani.
 * [Docker in education: From VMs to Containers](http://blog.docker.io/2014/04/docker-in-education-interview/)
 * Using Docker for MOOCs:
   - [part 1](http://mjbright.blogspot.fr/2014/04/using-docker-for-moocs-part-1.html)
-* Marconi moreto.
+* Marconi Moreto.
   [Introduction to Docker](https://speakerdeck.com/marconi/introduction-to-docker)
+* Kyle Mathews.
+  [Hosting static sites with Docker and Nginx](http://bricolage.io/hosting-static-sites-with-docker-and-nginx/)
 
 5\. Tools for automating development workflow:
 - [Yeoman](https://github.com/yeoman/yeoman)
