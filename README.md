@@ -118,6 +118,15 @@ Seminarium odwołane.
   zob. też wtyczkę [Emmet](http://emmet.io/)
 
 
+## Crash course on web performance
+
+Ilya Grigorik:
+
+* [Bandwidth, latency, and radio performance](https://www.youtube.com/watch?v=7gtf47D_bu0)
+* [Optimizing networking performance (and HTTP 2.0)](https://www.youtube.com/watch?v=46exugLbGFI)
+* [Critical rendering path](https://www.youtube.com/watch?v=PkOBnYxqj3k)
+
+
 ## HOWTOs
 
 * Simon Peyton Jones,
