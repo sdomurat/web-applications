@@ -171,6 +171,9 @@ by Addy Osmani.
   * *MDN*. [Custom Elements](https://developer.mozilla.org/en-US/Apps/Tools_and_frameworks/Custom_elements)
 - [Shadow DOM](http://w3c.github.io/webcomponents/explainer/#shadow-dom-section)
   * Dominic Cooney. [Shadow DOM 101](http://www.html5rocks.com/en/tutorials/webcomponents/shadowdom/)
+- Ilya Grigorik.
+  [Web Components can do that?!](http://addyosmani.github.io/fitc-wccdt/)
+
 
 2\. [Polymer](http://www.polymer-project.org/) – building blocks for the WEB:
 * [Difference between Bower and NPM?](http://stackoverflow.com/questions/18641899/difference-between-bower-and-npm)
