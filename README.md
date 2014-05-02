@@ -214,7 +214,10 @@ by Addy Osmani.
 - Matt Greer.
   [JavaScript Promises … In Wicked Detail](http://mattgreer.org/articles/promises-in-wicked-detail/)
 
+
 ## Różne rzeczy
 
 1. [Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/) – Vincent Walsh, Prof. Neuroscience UCL (interview).
+1. Richard Hamming.
+   [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 1. [Farewell Letter Generator](http://tinysubversions.com/stuff/farewell/) by Darius Kazemi.
