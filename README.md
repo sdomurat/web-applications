@@ -124,6 +124,7 @@ Seminarium odwołane.
   * [Bandwidth, latency, and radio performance](https://www.youtube.com/watch?v=7gtf47D_bu0)
   * [Optimizing networking performance (and HTTP 2.0)](https://www.youtube.com/watch?v=46exugLbGFI)
   * [Critical rendering path](https://www.youtube.com/watch?v=PkOBnYxqj3k)
+  * [Making Web Fonts Fast(er)](http://velocityconf.com/velocity2014/public/schedule/detail/35201)
 1. Ilya Grigorik, [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html).
 1. [Give your app a first-class tune-up](https://developer.att.com/application-resource-optimizer).
 
