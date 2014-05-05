@@ -118,13 +118,14 @@ Seminarium odwołane.
   zob. też wtyczkę [Emmet](http://emmet.io/)
 
 
-## Crash course on web performance
+## Crash course web / browser performance
 
-Ilya Grigorik:
-
-* [Bandwidth, latency, and radio performance](https://www.youtube.com/watch?v=7gtf47D_bu0)
-* [Optimizing networking performance (and HTTP 2.0)](https://www.youtube.com/watch?v=46exugLbGFI)
-* [Critical rendering path](https://www.youtube.com/watch?v=PkOBnYxqj3k)
+1. Ilya Grigorik:
+  * [Bandwidth, latency, and radio performance](https://www.youtube.com/watch?v=7gtf47D_bu0)
+  * [Optimizing networking performance (and HTTP 2.0)](https://www.youtube.com/watch?v=46exugLbGFI)
+  * [Critical rendering path](https://www.youtube.com/watch?v=PkOBnYxqj3k)
+1. Ilya Grigorik, [High-Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html).
+1. [Give your app a first-class tune-up](https://developer.att.com/application-resource-optimizer).
 
 
 ## HOWTOs
