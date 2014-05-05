@@ -240,4 +240,4 @@ by Addy Osmani.
 > slightly the wrong thing** – not much, but enough that they miss fame.
 
 1. [Farewell Letter Generator](http://tinysubversions.com/stuff/farewell/) by Darius Kazemi.
-1. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/)
+1. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).
