@@ -85,7 +85,7 @@ Seminarium odwołane.
 
 **08.05.2014**:
 
-1. Motel Mateusz.
+1. Motel Mateusz. [Oplog & My idea](http://mathewgd.webd.pl/slideshows/oplog-mgr-idea/).
   - [Blonk: Building “Tinder for Jobs” with Meteor for Mobile](ohttps://www.discovermeteor.com/blog/blonk-building-tinder-for-jobs-with-meteor-for-mobile/)
 1. Szymon Domurat. [MEGA-Miejsca](http://slides.com/szymon-1/pomysl)
 1. Krzysztof Detlaf.
