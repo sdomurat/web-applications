@@ -89,7 +89,7 @@ Seminarium odwołane.
   - [Blonk: Building “Tinder for Jobs” with Meteor for Mobile](ohttps://www.discovermeteor.com/blog/blonk-building-tinder-for-jobs-with-meteor-for-mobile/)
 1. Szymon Domurat. [MEGA-Miejsca](http://slides.com/szymon-1/pomysl)
 1. Krzysztof Detlaf.
-1. Przemysław Królik.
+1. Przemysław Królik. [Meteor - Iron Router](http://slides.com/necromos/iron)
 
 **15.05.2014**:
 
