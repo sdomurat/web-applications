@@ -227,6 +227,8 @@ by Addy Osmani.
 1. [Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/) – Vincent Walsh, Prof. Neuroscience UCL (interview).
 1. Richard Hamming.
    [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+1. Michael Nielsen.
+   [Reinventing explanation](http://michaelnielsen.org/reinventing_explanation/index.html)
 
 > Another trait, it took me a while to notice. I noticed the following
 > facts about people who work with the door open or the door closed. I
