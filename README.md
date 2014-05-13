@@ -87,7 +87,8 @@ Seminarium odwołane.
 
 1. Motel Mateusz. [Oplog & My idea](http://mathewgd.webd.pl/slideshows/oplog-mgr-idea/).
   - [Blonk: Building “Tinder for Jobs” with Meteor for Mobile](ohttps://www.discovermeteor.com/blog/blonk-building-tinder-for-jobs-with-meteor-for-mobile/)
-  - [Improving Meteor’s MongoDB Read Performance and CPU Usage with Find-Faster](http://meteorhacks.com/improving-meteors-mongodb-read-performance-and-cpu-usage-with-find-faster.html?utm_source=NoSQL+Weekly+Newsletter&utm_campaign=279af12ae1-NoSQL_Weekly_Issue_180_April_May_8_2014)
+  - [Improving Meteor’s MongoDB Read Performance and CPU Usage with Find-Faster](http://meteorhacks.com/improving-meteors-mongodb-read-performance-and-cpu-usage-with-find-faster.html)
+  - [Meteor APM](https://meteorapm.com/) – Application Performance Monitoring for Meteor
 1. Krzysztof Detlaf.
 1. Przemysław Królik.
 
@@ -97,10 +98,10 @@ Seminarium odwołane.
   - [Searching 20 GB/sec: Systems Engineering Before Algorithms](http://blog.scalyr.com/2014/05/06/searching-20-gbsec-systems-engineering-before-algorithms)
   - [Logstash](http://www.elasticsearch.org/overview/logstash/)
   - [Kibana](http://www.elasticsearch.org/overview/kibana/)
+1. Szymon Domurat. [MEGA-Miejsca](http://slides.com/szymon-1/pomysl)
 1. Lewandowska Marta. [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs).
 1. Matulewski Damian.
 1. Kwiatkowski Mateusz.
-1. Szymon Domurat. [MEGA-Miejsca](http://slides.com/szymon-1/pomysl)
 
 **22.05.2014**:
 
