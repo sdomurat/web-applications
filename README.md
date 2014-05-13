@@ -11,18 +11,18 @@
 
 W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 
-1. Detlaf Krzysztof. *Tytuł pracy*
-1. Domurat Szymon
-1. Królik Przemysław
-1. Kwiatkowski Mateusz
+1. Detlaf Krzysztof. *Tytuł pracy*.
+1. Domurat Szymon.
+1. Królik Przemysław.
+1. Kwiatkowski Mateusz.
 1. Lewandowska Marta
-1. Małecki Maciej
-1. Matulewski Damian
-1. Motel Mateusz
-1. Motławski Mateusz
-1. Plichta Oskar
-1. Sott Tomasz
-1. Zawodny Paweł
+1. Małecki Maciej. *Budowanie wydajnych i skalowalnych aplikacji webowych*.
+1. Matulewski Damian.
+1. Motel Mateusz. *Technika oplog tailing*.
+1. Motławski Mateusz.
+1. Plichta Oskar.
+1. Sott Tomasz.
+1. Zawodny Paweł.
 
 
 ## Referaty ≈ 20 min
