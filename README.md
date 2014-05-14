@@ -100,7 +100,7 @@ Seminarium odwołane.
   - [Kibana](http://www.elasticsearch.org/overview/kibana/)
 1. Szymon Domurat. [MEGA-Miejsca](http://slides.com/szymon-1/pomysl)
 1. Lewandowska Marta. [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs).
-1. Matulewski Damian.
+1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker)
 1. Kwiatkowski Mateusz.
 
 **22.05.2014**:
