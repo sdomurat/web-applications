@@ -94,7 +94,7 @@ Seminarium odwołane.
 
 **15.05.2014**:
 
-1. Małecki Maciej.
+1. Małecki Maciej. Service-Oriented Architecture.
   - [Searching 20 GB/sec: Systems Engineering Before Algorithms](http://blog.scalyr.com/2014/05/06/searching-20-gbsec-systems-engineering-before-algorithms)
   - [Logstash](http://www.elasticsearch.org/overview/logstash/)
   - [Kibana](http://www.elasticsearch.org/overview/kibana/)
