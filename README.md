@@ -89,7 +89,7 @@ Seminarium odwołane.
   - [Blonk: Building “Tinder for Jobs” with Meteor for Mobile](ohttps://www.discovermeteor.com/blog/blonk-building-tinder-for-jobs-with-meteor-for-mobile/)
   - [Improving Meteor’s MongoDB Read Performance and CPU Usage with Find-Faster](http://meteorhacks.com/improving-meteors-mongodb-read-performance-and-cpu-usage-with-find-faster.html)
   - [Meteor APM](https://meteorapm.com/) – Application Performance Monitoring for Meteor
-1. Krzysztof Detlaf.
+  - [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro) – na Code School
 1. Przemysław Królik. [Meteor - Iron Router](http://slides.com/necromos/iron)
 
 **15.05.2014**:
@@ -101,7 +101,6 @@ Seminarium odwołane.
 1. Szymon Domurat. [Pomysły](http://slides.com/szymon-1/pomysl)
 1. Lewandowska Marta. [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs).
 1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker)
-1. Kwiatkowski Mateusz.
 
 **22.05.2014**:
 
@@ -109,6 +108,11 @@ Seminarium odwołane.
 1. Plichta Oskar.
 1. Sott Tomasz.
 1. Zawodny Paweł.
+
+**29.05.2014**:
+
+1. Krzysztof Detlaf.
+1. Kwiatkowski Mateusz.
 
 
 ## LaTeX
