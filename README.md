@@ -90,7 +90,7 @@ Seminarium odwołane.
   - [Improving Meteor’s MongoDB Read Performance and CPU Usage with Find-Faster](http://meteorhacks.com/improving-meteors-mongodb-read-performance-and-cpu-usage-with-find-faster.html)
   - [Meteor APM](https://meteorapm.com/) – Application Performance Monitoring for Meteor
 1. Krzysztof Detlaf.
-1. Przemysław Królik.
+1. Przemysław Królik. [Meteor - Iron Router](http://slides.com/necromos/iron)
 
 **15.05.2014**:
 
