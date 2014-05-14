@@ -90,7 +90,7 @@ Seminarium odwołane.
   - [Improving Meteor’s MongoDB Read Performance and CPU Usage with Find-Faster](http://meteorhacks.com/improving-meteors-mongodb-read-performance-and-cpu-usage-with-find-faster.html)
   - [Meteor APM](https://meteorapm.com/) – Application Performance Monitoring for Meteor
   - [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro) – na Code School
-1. Przemysław Królik. [Meteor - Iron Router](http://slides.com/necromos/iron)
+1. Przemysław Królik. [Meteor – Iron Router](http://slides.com/necromos/iron)
 
 **15.05.2014**:
 
@@ -99,7 +99,7 @@ Seminarium odwołane.
   - [Logstash](http://www.elasticsearch.org/overview/logstash/)
   - [Kibana](http://www.elasticsearch.org/overview/kibana/)
 1. Szymon Domurat. [Pomysły](http://slides.com/szymon-1/pomysl)
-1. Lewandowska Marta. [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs).
+1. Lewandowska Marta. [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs)
 1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker)
 
 **22.05.2014**:
