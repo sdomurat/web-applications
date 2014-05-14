@@ -98,7 +98,7 @@ Seminarium odwołane.
   - [Searching 20 GB/sec: Systems Engineering Before Algorithms](http://blog.scalyr.com/2014/05/06/searching-20-gbsec-systems-engineering-before-algorithms)
   - [Logstash](http://www.elasticsearch.org/overview/logstash/)
   - [Kibana](http://www.elasticsearch.org/overview/kibana/)
-1. Szymon Domurat. [MEGA-Miejsca](http://slides.com/szymon-1/pomysl)
+1. Szymon Domurat. [Pomysły](http://slides.com/szymon-1/pomysl)
 1. Lewandowska Marta. [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs).
 1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker)
 1. Kwiatkowski Mateusz.
