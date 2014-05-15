@@ -60,7 +60,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 
 ![Installing, http://xkcd.com/1367/](images/installing.png)
 
-*Source: [xkcd](http://xkcd.com/1367/)
+*Source:* [xkcd](http://xkcd.com/1367/)
 
 **27.03.2014**:
 
