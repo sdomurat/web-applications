@@ -94,6 +94,7 @@ Seminarium odwołane.
   - [Improving Meteor’s MongoDB Read Performance and CPU Usage with Find-Faster](http://meteorhacks.com/improving-meteors-mongodb-read-performance-and-cpu-usage-with-find-faster.html)
   - [Meteor APM](https://meteorapm.com/) – Application Performance Monitoring for Meteor
   - [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro) – na Code School
+  - [Meteor 0.8.1.2 RC, **ECMASCRIPT 6 Integration**, DDP and More](http://meteorhacks.com/meteor-weekly-0-8-1-2-rc-es6-integration-ddp.html?utm_content=buffer8f456)
 1. Przemysław Królik. [Meteor – Iron Router](http://slides.com/necromos/iron)
 
 **15.05.2014**:
