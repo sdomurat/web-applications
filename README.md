@@ -57,12 +57,11 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
   - [Testing](http://emberjs.com/guides/testing/)
 1. Przemysław Królik. Mój pomysł na…
 
+**27.03.2014**:
 
 ![Installing, http://xkcd.com/1367/](images/installing.png)
 
 *Source:* [xkcd](http://xkcd.com/1367/)
-
-**27.03.2014**:
 
 1. Motel Mateusz. [MeteorJS & Observe Collection Changes Mechanism](http://mathewgd.webd.pl/slideshows/meteor-observe-changes/).
 
