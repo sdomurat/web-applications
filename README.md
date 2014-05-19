@@ -110,7 +110,7 @@ Seminarium odwołane.
 **22.05.2014**:
 
 1. Motławski Mateusz.
-1. Plichta Oskar.
+1. Plichta Oskar. [Emmet](http://slides.com/oplichta/e)
 1. Sott Tomasz.
 1. Zawodny Paweł.
 
