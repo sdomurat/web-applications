@@ -1,4 +1,4 @@
-## Thinking like a freak / Myślenie nieszblonowe
+## Thinking like a freak / Myślenie nieszablonowe
 
 * *freak* – maniak, fanatyk, dziwoląg, dziwak
 * *hammock* – hamak
