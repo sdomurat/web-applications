@@ -1,6 +1,7 @@
-## Thinking like a freak
+## Thinking like a freak / Myślenie nieszblonowe
 
-* *freak* – someone very abnormal
+* *freak* – maniak, fanatyk, dziwoląg, dziwak
+* *hammock* – hamak
 
 > Another barrier to thinking like a Freak is that most people
 > are to busy to rethink the way they think—or to even spend much
@@ -14,3 +15,6 @@
 > two or three times a year.,” Shaw reportedly said. “I have made an
 > international reputation for myself by thinking once or twice a week.<br>
 > — S. D. Levitt, S. J. Dubner, “Think Like a Freak”
+
+*  Rich Hickey.
+   [Hammock Driven Development](https://www.youtube.com/watch?v=f84n5oFoZBc)
