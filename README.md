@@ -95,6 +95,7 @@ Seminarium odwołane.
   - [Meteor APM](https://meteorapm.com/) – Application Performance Monitoring for Meteor
   - [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro) – na Code School
   - [Meteor 0.8.1.2 RC, **ECMASCRIPT 6 Integration**, DDP and More](http://meteorhacks.com/meteor-weekly-0-8-1-2-rc-es6-integration-ddp.html?utm_content=buffer8f456)
+  - [What's involved to use TokuMX as a MongoDB replacement backend for Meteor?](https://groups.google.com/forum/#!topic/meteor-talk/9Ysxz05dp1A)
 1. Przemysław Królik. [Meteor – Iron Router](http://slides.com/necromos/iron)
 
 **15.05.2014**:
@@ -103,14 +104,15 @@ Seminarium odwołane.
   - [Searching 20 GB/sec: Systems Engineering Before Algorithms](http://blog.scalyr.com/2014/05/06/searching-20-gbsec-systems-engineering-before-algorithms)
   - [Logstash](http://www.elasticsearch.org/overview/logstash/)
   - [Kibana](http://www.elasticsearch.org/overview/kibana/)
-1. Szymon Domurat. [Pomysły](http://slides.com/szymon-1/pomysl)
+1. Szymon Domurat. [Pomysły](http://slides.com/szymon-1/pomysl).
+  - James Surowiecki. [The Collective Intelligence of the Web](http://www.newyorker.com/online/blogs/elements/2014/05/collective-intelligence-of-the-web.html)
 1. Lewandowska Marta. [Testing applications with PhantomJS](http://slid.es/martalewandowska/testing_apps_phantomjs)
-1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker)
 
 **22.05.2014**:
 
+1. Plichta Oskar. [Atom+Emmet](http://slides.com/oplichta/e)
+1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker)
 1. Motławski Mateusz.
-1. Plichta Oskar. [Emmet](http://slides.com/oplichta/e)
 1. Sott Tomasz.
 1. Zawodny Paweł.
 
