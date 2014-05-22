@@ -111,15 +111,15 @@ Seminarium odwołane.
 **22.05.2014**:
 
 1. Plichta Oskar. [Atom+Emmet](http://slides.com/oplichta/e)
+1. Sott Tomasz. [Meteor smart packages – używanie i tworzenie](http://slides.com/supersott/meteor-smart-packages-uzywanie-i-tworzenie)
 1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker)
-1. Motławski Mateusz.
-1. Sott Tomasz. [Meteor smart packages -używanie i tworzenie](http://slides.com/supersott/meteor-smart-packages-uzywanie-i-tworzenie)
 1. Zawodny Paweł.
 
 **29.05.2014**:
 
 1. Krzysztof Detlaf.
 1. Kwiatkowski Mateusz.
+1. Motławski Mateusz.
 
 
 ## LaTeX
