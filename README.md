@@ -13,7 +13,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 
 1. Detlaf Krzysztof. *Tytuł pracy*.
 1. Domurat Szymon.
-1. Królik Przemysław.
+1. Królik Przemysław. *Przyśpieszanie aplikacji webowych w Service Oriented Architecture.*
 1. Kwiatkowski Mateusz.
 1. Lewandowska Marta
 1. Małecki Maciej. *Budowanie wydajnych i skalowalnych aplikacji webowych*.
