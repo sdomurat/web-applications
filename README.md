@@ -17,7 +17,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 1. Małecki Maciej. [Budowanie wydajnych i skalowalnych aplikacji webowych](https://github.com/smt116/master-thesis)
 1. Matulewski Damian.
 1. Motel Mateusz. [Technika oplog tailing](https://github.com/mmotel/master-thesis)
-1. Motławski Mateusz.
+1. Motławski Mateusz. [Zastosowanie ui-elements z Polymer w MeteorJS](https://github.com/miotla007/magisterka)
 1. Plichta Oskar.
 1. Sott Tomasz. [Porównanie pakietów…](https://github.com/tsott/mgr)
 1. Zawodny Paweł.
