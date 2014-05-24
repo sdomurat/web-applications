@@ -7,22 +7,21 @@
 > the manner in which the problems at hand are solved by program execution.<br>
 > [*Peter Naur*](http://alistair.cockburn.us/ASD+book+extract%3A+%22Naur,+Ehn,+Musashi%22)
 
-### TODO
-
 W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 
 1. Detlaf Krzysztof. *Tytuł pracy*.
 1. Domurat Szymon.
-1. Królik Przemysław.
+1. Królik Przemysław. [Przyśpieszanie aplikacji webowych w Service Oriented Architecture](https://github.com/Necromos/mgr)
 1. Kwiatkowski Mateusz.
 1. Lewandowska Marta
 1. Małecki Maciej. *Budowanie wydajnych i skalowalnych aplikacji webowych*.
 1. Matulewski Damian.
 1. Motel Mateusz. *Technika oplog tailing*.
-1. Motławski Mateusz.
-1. Plichta Oskar.
-1. Sott Tomasz.
+1. Motławski Mateusz.1. Plichta Oskar.
+1. Sott Tomasz. [Porównanie pakietów…](https://github.com/tsott/mgr)
 1. Zawodny Paweł.
+
+*Uwaga:* repozytoria powinny być prywatne.
 
 
 ## Referaty ≈ 20 min
@@ -111,15 +110,15 @@ Seminarium odwołane.
 **22.05.2014**:
 
 1. Plichta Oskar. [Atom+Emmet](http://slides.com/oplichta/e)
+1. Sott Tomasz. [Meteor smart packages – używanie i tworzenie](http://slides.com/supersott/meteor-smart-packages-uzywanie-i-tworzenie)
 1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker)
-1. Sott Tomasz.
-1. Zawodny Paweł.
 
 **29.05.2014**:
 
-1. Krzysztof Detlaf.
 1. Kwiatkowski Mateusz.
 1. Motławski Mateusz.
+1. Zawodny Paweł.
+1. Krzysztof Detlaf.
 
 
 ## LaTeX
