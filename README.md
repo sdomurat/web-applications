@@ -15,7 +15,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 1. Kwiatkowski Mateusz. [Walidacja w MeteorJS na przykładzie elektronicznego indeksu](https://github.com/Flover/praca_magisterska)
 1. Lewandowska Marta. [Automatyzacja testów w nowoczesnych aplikacjach webowych](https://github.com/mlewandowska/thesis)
 1. Małecki Maciej. [Budowanie wydajnych i skalowalnych aplikacji webowych](https://github.com/smt116/master-thesis)
-1. Matulewski Damian. [Wirtualne środowisko w laboratoriach II]
+1. Matulewski Damian. [Wirtualne środowisko w laboratoriach II](https://github.com/dmatulewski/mgr)
 1. Motel Mateusz. [Technika oplog tailing](https://github.com/mmotel/master-thesis)
 1. Motławski Mateusz. [Zastosowanie ui-elements z Polymer w MeteorJS](https://github.com/miotla007/magisterka)
 1. Plichta Oskar. [Tworzenie przyjaznego interfejsu użytkownika…](https://github.com/oplichta/magisterka)
