@@ -13,7 +13,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 1. Domurat Szymon.
 1. Królik Przemysław. [Przyśpieszanie aplikacji webowych w Service Oriented Architecture](https://github.com/Necromos/mgr)
 1. Kwiatkowski Mateusz. [Walidacja w MeteorJS na przykładzie elektronicznego indeksu](https://github.com/Flover/praca_magisterska)
-1. Lewandowska Marta.
+1. Lewandowska Marta. [Automatyzacja testów w nowoczesnych aplikacjach webowych](https://github.com/mlewandowska/thesis)
 1. Małecki Maciej. [Budowanie wydajnych i skalowalnych aplikacji webowych](https://github.com/smt116/master-thesis)
 1. Matulewski Damian. [Wirtualne środowisko w laboratoriach II]
 1. Motel Mateusz. [Technika oplog tailing](https://github.com/mmotel/master-thesis)
