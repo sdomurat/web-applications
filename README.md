@@ -10,7 +10,7 @@
 W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 
 1. Detlaf Krzysztof.
-1. Domurat Szymon.
+1. Domurat Szymon. [Aplikacja eventowa wykorzystująca nowoczesne technologie JavaScript]
 1. Królik Przemysław. [Przyśpieszanie aplikacji webowych w Service Oriented Architecture](https://github.com/Necromos/mgr)
 1. Kwiatkowski Mateusz. [Walidacja w MeteorJS na przykładzie elektronicznego indeksu](https://github.com/Flover/praca_magisterska)
 1. Lewandowska Marta.
