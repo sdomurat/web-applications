@@ -38,14 +38,14 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 1. W pliku *README.md* wpisujemy:
 
 ```
-## Tytuł pracy
-### *Imię i nazwisko autora*
+### Tytuł pracy
+#### *Imię i nazwisko autora*
 
 * [link do aktualnego PDF-a z treścią pracy mgr](link)
 
 [zmieniamy notację na Markdown i wklejamy *Wprowadzenie* z pracy]
 
-### Bibliografia
+#### Bibliografia
 
 [kilka najważniejszych pozycji bibliograficznych z pracy]
 ```
