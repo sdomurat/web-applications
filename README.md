@@ -7,20 +7,30 @@
 > the manner in which the problems at hand are solved by program execution.<br>
 > [*Peter Naur*](http://alistair.cockburn.us/ASD+book+extract%3A+%22Naur,+Ehn,+Musashi%22)
 
+**TODO:** W pliku [Titles](Titles) wpisać cztery tytuły prac o tematyce
+podobnej do tematu pracy. Czekam na pull requests do środy, 28.05.
+
 W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 
-1. Detlaf Krzysztof.
-1. Domurat Szymon. [Aplikacja eventowa wykorzystująca nowoczesne technologie JavaScript](https://github.com/sdomurat/mgr)
-1. Królik Przemysław. [Przyśpieszanie aplikacji webowych w Service Oriented Architecture](https://github.com/Necromos/mgr)
-1. Kwiatkowski Mateusz. [Walidacja w MeteorJS na przykładzie elektronicznego indeksu](https://github.com/Flover/praca_magisterska)
-1. Lewandowska Marta. [Automatyzacja testów w nowoczesnych aplikacjach webowych](https://github.com/mlewandowska/thesis)
-1. Małecki Maciej. [Budowanie wydajnych i skalowalnych aplikacji webowych](https://github.com/smt116/master-thesis)
-1. Matulewski Damian. [Wirtualne środowisko w laboratoriach II](https://github.com/dmatulewski/mgr)
-1. Motel Mateusz. [Technika oplog tailing](https://github.com/mmotel/master-thesis)
-1. Motławski Mateusz. [Zastosowanie ui-elements z Polymer w MeteorJS](https://github.com/miotla007/magisterka)
-1. Plichta Oskar. [Tworzenie przyjaznego interfejsu użytkownika…](https://github.com/oplichta/magisterka)
-1. Sott Tomasz. [Porównanie pakietów…](https://github.com/tsott/mgr)
-1. Zawodny Paweł.
+1. (1) Detlaf Krzysztof.
+1. (2) Domurat Szymon. [Aplikacja eventowa wykorzystująca nowoczesne technologie JavaScript](https://github.com/sdomurat/mgr) –
+   za ogólne, przymiotnik nowoczesne nic nie znaczy w tytule
+1. (2) Królik Przemysław. [Przyśpieszanie aplikacji webowych w Service Oriented Architecture](https://github.com/Necromos/mgr) –
+   raczej jak SOA ułatwia tworzenie wydajnych aplikacji…
+1. (2+) Kwiatkowski Mateusz. [Walidacja w MeteorJS na przykładzie elektronicznego indeksu](https://github.com/Flover/praca_magisterska) –
+   niezrozumiałe; lepiej Walidacja (czego?) w aplikacjach Meteor; Walidacja w aplikacjach JavaScript?
+1. (2) Lewandowska Marta. [Automatyzacja testów w aplikacjach webowych](https://github.com/mlewandowska/thesis) –
+   usunąłem nowoczesnych; temat na serię artykułów (chyba za ogólny)
+1. (3) Małecki Maciej. [Budowanie wydajnych i skalowalnych aplikacji webowych](https://github.com/smt116/master-thesis) –
+   temat książki (za obszerny)
+1. (2) Matulewski Damian. [Wykorzystanie Dockera w laboratoriach II](https://github.com/dmatulewski/mgr) –
+   nie za bardzo wiadomo o co chodzi w tytule (prawie nikt nie wie co oznacza słowo Docker)
+1. (2) Motel Mateusz. [Technika oplog tailing ?w aplikacjach Meteor](https://github.com/mmotel/master-thesis) –
+   dlaczego powinniśmy wiedziec co to jest oplog tailing?
+1. (2) Motławski Mateusz. [Zastosowanie ui-elements z Polymer w MeteorJS](https://github.com/miotla007/magisterka) – artykuł na blogu
+1. (2) Plichta Oskar. [Tworzenie przyjaznego interfejsu użytkownika…](https://github.com/oplichta/magisterka) — jw.
+1. (2) Sott Tomasz. [Porównanie pakietów…](https://github.com/tsott/mgr) – jw.
+1. (1) Zawodny Paweł.
 
 *Uwaga:* repozytoria powinny być prywatne.
 
