@@ -43,7 +43,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 
 * [link do aktualnego PDF-a z treścią pracy mgr](link)
 
-[wklejamy (i zmieniamy notację na Markdown) ***Wprowadzenie*** z pracy]
+[zmieniamy notację na Markdown i wklejamy *Wprowadzenie* z pracy]
 
 ### Bibliografia
 
