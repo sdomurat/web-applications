@@ -32,7 +32,23 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 1. (2) Sott Tomasz. [Porównanie pakietów…](https://github.com/tsott/mgr) – jw.
 1. (1) Zawodny Paweł.
 
-*Uwaga:* repozytoria powinny być prywatne.
+*UWAGI:*
+
+1. Repozytoria z pracami mgr powinny być prywatne.
+1. W pliku *README.md* wpisujemy:
+
+```
+## Tytuł pracy
+### *Imię i nazwisko autora*
+
+* [link do aktualnego PDF-a z treścią pracy mgr](/)
+
+[wklejamy (i zmieniamy notację na Markdown) ***Wprowadzenie*** z pracy]
+
+### Bibliografia
+
+[kilka najważniejszych pozycji bibliograficznych z pracy]
+```
 
 
 ## Referaty ≈ 20 min
