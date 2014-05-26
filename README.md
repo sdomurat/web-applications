@@ -10,6 +10,11 @@
 **TODO:** W pliku [Titles](Titles) wpisać cztery tytuły prac o tematyce
 podobnej do tematu pracy. Czekam na pull requests do środy, 28.05.
 
+> On the average, five times as many people read the headline as read
+  the body copy. When you have written your headline, you have spent
+  eighty cents out of your dollar.<br>
+> — David Ogilvy
+
 W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 
 1. (1) Detlaf Krzysztof.
@@ -141,6 +146,8 @@ Seminarium odwołane.
 1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker)
 
 **29.05.2014**:
+
+[**Nigdy, przenigdy nie zaczynamy pracy od *Agendy***](http://korpus.pl/poliqarp/poliqarp.php).
 
 1. Kwiatkowski Mateusz.
 1. Motławski Mateusz.
