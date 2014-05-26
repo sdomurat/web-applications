@@ -7,7 +7,7 @@
 > the manner in which the problems at hand are solved by program execution.<br>
 > [*Peter Naur*](http://alistair.cockburn.us/ASD+book+extract%3A+%22Naur,+Ehn,+Musashi%22)
 
-**TODO:** W pliku [Titles](Titles) wpisać cztery tytuły prac o tematyce
+**TODO:** W pliku [Titles](Titles.md) wpisać cztery tytuły prac o tematyce
 podobnej do tematu pracy. Czekam na pull requests do środy, 28.05.
 
 > On the average, five times as many people read the headline as read
