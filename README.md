@@ -41,7 +41,7 @@ W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
 ## Tytuł pracy
 ### *Imię i nazwisko autora*
 
-* [link do aktualnego PDF-a z treścią pracy mgr](/)
+* [link do aktualnego PDF-a z treścią pracy mgr](link)
 
 [wklejamy (i zmieniamy notację na Markdown) ***Wprowadzenie*** z pracy]
 
