@@ -46,10 +46,10 @@ Matulewski Damian. [Wirtualne środowisko w laboratoriach II](https://github.com
 
 
 Motel Mateusz. [Technika oplog tailing](https://github.com/mmotel/master-thesis)
-- …
-- …
-- …
-- …
+- Wykorzystanie techiki oplog tailing oraz mechanizmu obserwacji zmian w kolekcjach w apliakcjach webowych
+- Technika oplog tailing na przykładzie frameworka MeteorJS
+- Mechanizm obserwacji zmian w kolekcjach na przykładzie frameworka MeteorJS
+- Technika oplog tailing oraz mechanizm obserwacji zmian w kolekcjach na przykładzie frameworka MeteorJS
 
 
 Motławski Mateusz. [Zastosowanie ui-elements z Polymer w MeteorJS](https://github.com/miotla007/magisterka)
