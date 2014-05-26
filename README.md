@@ -18,7 +18,7 @@ z programowania, które przeczytaliście ostatnio i których tytuły was zaintry
 
 W maju przygotowujecie konspekty prac magisterskich (**deadline: 25.05.2014**).
 
-1. (1) Detlaf Krzysztof.
+1. (1) Detlaf Krzysztof. [Geolokalizacja oraz interaktywne wykorzystanie Google Maps, Leaflet Privider w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
 1. (2) Domurat Szymon. [Aplikacja eventowa wykorzystująca nowoczesne technologie JavaScript](https://github.com/sdomurat/mgr) –
    za ogólne, przymiotnik nowoczesne nic nie znaczy w tytule
 1. (2) Królik Przemysław. [Przyśpieszanie aplikacji webowych w Service Oriented Architecture](https://github.com/Necromos/mgr) –
