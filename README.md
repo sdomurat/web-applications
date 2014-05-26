@@ -7,15 +7,16 @@
 > the manner in which the problems at hand are solved by program execution.<br>
 > [*Peter Naur*](http://alistair.cockburn.us/ASD+book+extract%3A+%22Naur,+Ehn,+Musashi%22)
 
-**TODO:** W pliku [Titles](Titles.md) wpisać cztery tytuły prac o tematyce
-podobnej do tematu pracy. Czekam na pull requests do środy, 28.05.
+**TODO:** W pliku [Titles.md](Titles.md) wpisać cztery artykuły lub książki
+z programowania, które przeczytaliście ostatnio i których tytuły was zaintrygowały
+(bo były ciekawe/interesujące/kontowersyjne). Czekam na pull requests do środy, 28.05.
 
 > On the average, five times as many people read the headline as read
   the body copy. When you have written your headline, you have spent
   eighty cents out of your dollar.<br>
 > — David Ogilvy
 
-W maju przygotowujemy konspekty prac magisterskich (**deadline: 25.05.2014**).
+W maju przygotowujecie konspekty prac magisterskich (**deadline: 25.05.2014**).
 
 1. (1) Detlaf Krzysztof.
 1. (2) Domurat Szymon. [Aplikacja eventowa wykorzystująca nowoczesne technologie JavaScript](https://github.com/sdomurat/mgr) –
