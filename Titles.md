@@ -33,10 +33,10 @@ Lewandowska Marta. [Automatyzacja testów w nowoczesnych aplikacjach webowych](h
 
 
 Małecki Maciej. [Budowanie wydajnych i skalowalnych aplikacji webowych](https://github.com/smt116/master-thesis)
-- Budowanie wydajnych i skalowalnych API
-- Rola Service Oriented Architecture w budowaniu aplikacji webowych
-- Service Oriented Architecture a testowanie całej platformy
-- Service Oriented Architecture - jak testować poszczególne komponenty
+- [Rails and SOA: Do I really need to have this big app?](http://blog.arkency.com/2013/12/rails-and-soa-do-i-really-need-to-have-this-big-app/)
+- …
+- …
+- …
 
 Matulewski Damian. [Wirtualne środowisko w laboratoriach II](https://github.com/dmatulewski/mgr)
 - …
