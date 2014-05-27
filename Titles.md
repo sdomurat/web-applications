@@ -46,10 +46,10 @@ Matulewski Damian. [Wirtualne środowisko w laboratoriach II](https://github.com
 
 
 Motel Mateusz. [Technika oplog tailing](https://github.com/mmotel/master-thesis)
-- Wykorzystanie techiki oplog tailing oraz mechanizmu obserwacji zmian w kolekcjach w apliakcjach webowych
-- Technika oplog tailing na przykładzie frameworka MeteorJS
-- Mechanizm obserwacji zmian w kolekcjach na przykładzie frameworka MeteorJS
-- Technika oplog tailing oraz mechanizm obserwacji zmian w kolekcjach na przykładzie frameworka MeteorJS
+- [Scott Nelson. Pub/sub with MongoDB. 2013. MongoDB Blog.](http://blog.mongodb.org/post/29495793738/pub-sub-with-mongodb) ([gist](https://gist.github.com/scttnlsn/3210919), [git](https://github.com/scttnlsn/mubsub))
+- [Arunoda Susiripala. Let's Scale Meteor - Using MongoDB Oplog. 2013. MeteorHacks.](http://meteorhacks.com/lets-scale-meteor.html)
+- [Harrison Weber. It took Google’s Web crawlers 15 years to come to terms with JavaScript. 2014. VentureBeat Dev. ](http://venturebeat.com/2014/05/23/it-took-googles-web-crawlers-15-years-to-come-to-terms-with-javascript/)
+- [Erik Hendriks and Michael Xu. Understanding web pages better. 2014. Official Google Webmaster Central Blog. ](http://googlewebmastercentral.blogspot.com/2014/05/understanding-web-pages-better.html)
 
 
 Motławski Mateusz. [Zastosowanie ui-elements z Polymer w MeteorJS](https://github.com/miotla007/magisterka)
