@@ -129,6 +129,7 @@ Seminarium odwołane.
   - [Meteor 0.8.1.2 RC, **ECMASCRIPT 6 Integration**, DDP and More](http://meteorhacks.com/meteor-weekly-0-8-1-2-rc-es6-integration-ddp.html?utm_content=buffer8f456)
   - [What's involved to use TokuMX as a MongoDB replacement backend for Meteor?](https://groups.google.com/forum/#!topic/meteor-talk/9Ysxz05dp1A)
 1. Przemysław Królik. [Meteor – Iron Router](http://slides.com/necromos/iron)
+  - [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
 
 **15.05.2014**:
 
