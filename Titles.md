@@ -67,10 +67,10 @@ Plichta Oskar. [Tworzenie przyjaznego interfejsu użytkownika…](https://github
 
 
 Sott Tomasz. [Porównanie pakietów…](https://github.com/tsott/mgr)
-- …
-- …
-- …
-- …
+- [Meteor.js - The Perfect Match For Lean Startups](http://www.manuel-schoebel.com/blog/meteorjs-the-perfect-match-for-lean-startups)
+- [Why web beginners should start with Meteor](https://www.meteor.com/blog/2013/12/13/why-web-beginners-should-start-with-meteor)
+- [5 Meteor Misconceptions](https://www.discovermeteor.com/blog/meteor-misconceptions/)
+- [Meteor Is Just A Toy](http://www.screamingatmyscreen.com/2012/4/meteor-is-just-a-toy/)
 
 
 Zawodny Paweł.
