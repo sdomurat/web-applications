@@ -53,10 +53,10 @@ Motel Mateusz. [Technika oplog tailing](https://github.com/mmotel/master-thesis)
 
 
 Motławski Mateusz. [Zastosowanie ui-elements z Polymer w MeteorJS](https://github.com/miotla007/magisterka)
-- …
-- …
-- …
-- …
+- [Introduction to Polymer](http://www.youtube.com/watch?v=8-Zq2KUN6jM&list=PLRAVCSU_HVYu-zlRaqArF8Ytwz1jlMOIM)
+- [Building a site on web components](http://www.youtube.com/watch?v=FarTf5P8Wsg)
+- [Building modern apps with Polymer & Web Components](http://www.youtube.com/watch?v=VMVj_jR75vE)
+- [Polymer. Using Elements](http://www.polymer-project.org/docs/start/usingelements.html)
 
 
 Plichta Oskar. [Tworzenie przyjaznego interfejsu użytkownika…](https://github.com/oplichta/magisterka)
