@@ -151,7 +151,7 @@ Seminarium odwołane.
 
 [**Nigdy, przenigdy nie zaczynamy pracy od *Agendy***](http://korpus.pl/poliqarp/poliqarp.php).
 
-1. Kwiatkowski Mateusz.
+1. Kwiatkowski Mateusz. [Mesosphere](http://slides.com/mateuszkwiatkowski/mesosphere)
 1. Motławski Mateusz. [Polymer](http://slides.com/miotla007/polymer)
 1. Zawodny Paweł.
 1. Krzysztof Detlaf.
