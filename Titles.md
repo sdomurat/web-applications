@@ -21,11 +21,11 @@
 
 ### Nasza lista
 
-Detlaf Krzysztof.
-- …
-- …
-- …
-- …
+Detlaf Krzysztof. [Geolokalizacja oraz interaktywne wykorzystanie Google Maps, Leaflet Privider w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
+- [The Last Goodbye: How To Shut Down A Failing Product](http://www.smashingmagazine.com/2014/05/19/last-goodbye-shut-down-failing-product/)
+- [More AngularJS Magic to Supercharge your Webapp](http://www.yearofmoo.com/2012/10/more-angularjs-magic-to-supercharge-your-webapp.html)
+- [Use AngularJS to Power Your Web Application](http://www.yearofmoo.com/2012/08/use-angularjs-to-power-your-web-application.html)
+- [Mobile And Accessibility: Why You Should Care And What You Can Do About It](http://www.smashingmagazine.com/2014/05/21/mobile-accessibility-why-care-what-can-you-do/)
 
 Domurat Szymon. [Aplikacja eventowa wykorzystująca nowoczesne technologie JavaScript](https://github.com/sdomurat/mgr)
 - Joshua Holbrook. [Interactive Plotting with Node.js](http://jesusabdullah.github.io/2011/02/26/plolt.html), 2011.
