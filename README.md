@@ -20,25 +20,25 @@ W maju przygotowujecie konspekty prac magisterskich (**deadline: 25.05.2014**).
 
 1. Detlaf Krzysztof.<br>
    [Geolokalizacja oraz interaktywne wykorzystanie Google Maps, Leaflet Privider w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
-1. Domurat Szymon.
+1. Domurat Szymon.<br>
    [Aplikacja eventowa wykorzystująca nowoczesne technologie JavaScript](https://github.com/sdomurat/mgr)
-1. Królik Przemysław.
+1. Królik Przemysław.<br>
    [Przyśpieszanie aplikacji webowych w Service Oriented Architecture](https://github.com/Necromos/mgr)
-1. Kwiatkowski Mateusz.
+1. Kwiatkowski Mateusz.<br>
    [Walidacja w MeteorJS na przykładzie elektronicznego indeksu](https://github.com/Flover/praca_magisterska)
-1. Lewandowska Marta.
+1. Lewandowska Marta.<br>
    [Automatyzacja testów w aplikacjach webowych](https://github.com/mlewandowska/thesis)
-1. Małecki Maciej.
+1. Małecki Maciej.<br>
    [Budowanie wydajnych i skalowalnych aplikacji webowych](https://github.com/smt116/master-thesis)
-1. Matulewski Damian.
+1. Matulewski Damian.<br>
    [Wykorzystanie Dockera w laboratoriach II](https://github.com/dmatulewski/mgr)
-1. Motel Mateusz.
+1. Motel Mateusz.<br>
    [Technika oplog tailing w aplikacjach Meteor](https://github.com/mmotel/master-thesis)
-1. Motławski Mateusz.
+1. Motławski Mateusz.<br>
    [Zastosowanie ui-elements z Polymer w MeteorJS](https://github.com/miotla007/magisterka)
-1. Plichta Oskar.
+1. Plichta Oskar.<br>
    [Tworzenie przyjaznego interfejsu użytkownika…](https://github.com/oplichta/magisterka)
-1. Sott Tomasz.
+1. Sott Tomasz.<br>
    [Porównanie pakietów…](https://github.com/tsott/mgr)
 1. Zawodny Paweł.
 
