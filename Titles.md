@@ -45,17 +45,10 @@ Kwiatkowski Mateusz. [Walidacja w MeteorJS na przykładzie elektronicznego indek
 
 
 Lewandowska Marta. [Automatyzacja testów w nowoczesnych aplikacjach webowych](https://github.com/mlewandowska/thesis)
-<<<<<<< HEAD
--[Joe Colantonio, Test Automation Trends for 2014 – How to Keep Your SkillsUp-to-Date, 2014, joecolantonio.com](http://www.joecolantonio.com/2014/01/14/test-automation-trends-for-2014-how-to-keep-your-skills-up-to-date/)
--[Grace Smith, 13 Essential Tools to Check Cross-Browser Compatibility, 2014, http://mashable.com](http://mashable.com/2014/02/26/browser-testing-tools/#)
--[Rajneesh Namta, Thoughts on Test Automation in Agile, 2012, infoq.com](http://www.infoq.com/articles/thoughts-on-test-automation-in-agile)
--[Oleksandr Reminnyi, Functional GUI Testing Automation Patterns, 2013, infoq.com](http://www.infoq.com/articles/gui-automation-patterns)
-=======
 - [Joe Colantonio, Test Automation Trends for 2014 – How to Keep Your SkillsUp-to-Date, 2014, joecolantonio.com](http://www.joecolantonio.com/2014/01/14/test-automation-trends-for-2014-how-to-keep-your-skills-up-to-date/)
 - [Grace Smith, 13 Essential Tools to Check Cross-Browser Compatibility, 2014, http://mashable.com](http://mashable.com/2014/02/26/browser-testing-tools/#)
 - [Rajneesh Namta, Thoughts on Test Automation in Agile, 2012, infoq.com](http://www.infoq.com/articles/thoughts-on-test-automation-in-agile)
 - [Oleksandr Reminnyi, Functional GUI Testing Automation Patterns, 2013, infoq.com](http://www.infoq.com/articles/gui-automation-patterns)
->>>>>>> upstream/master
 
 
 Małecki Maciej. [Budowanie wydajnych i skalowalnych aplikacji webowych](https://github.com/smt116/master-thesis)
