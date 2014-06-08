@@ -18,25 +18,29 @@ z programowania, które przeczytaliście ostatnio i których tytuły was zaintry
 
 W maju przygotowujecie konspekty prac magisterskich (**deadline: 25.05.2014**).
 
-1. (1) Detlaf Krzysztof. [Geolokalizacja oraz interaktywne wykorzystanie Google Maps, Leaflet Privider w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
-1. (2) Domurat Szymon. [Aplikacja eventowa wykorzystująca nowoczesne technologie JavaScript](https://github.com/sdomurat/mgr) –
-   za ogólne, przymiotnik nowoczesne nic nie znaczy w tytule
-1. (2) Królik Przemysław. [Przyśpieszanie aplikacji webowych w Service Oriented Architecture](https://github.com/Necromos/mgr) –
-   raczej jak SOA ułatwia tworzenie wydajnych aplikacji…
-1. (2+) Kwiatkowski Mateusz. [Walidacja w MeteorJS na przykładzie elektronicznego indeksu](https://github.com/Flover/praca_magisterska) –
-   niezrozumiałe; lepiej Walidacja (czego?) w aplikacjach Meteor; Walidacja w aplikacjach JavaScript?
-1. (2) Lewandowska Marta. [Automatyzacja testów w aplikacjach webowych](https://github.com/mlewandowska/thesis) –
-   usunąłem nowoczesnych; temat na serię artykułów (chyba za ogólny)
-1. (3) Małecki Maciej. [Budowanie wydajnych i skalowalnych aplikacji webowych](https://github.com/smt116/master-thesis) –
-   temat książki (za obszerny)
-1. (2) Matulewski Damian. [Wykorzystanie Dockera w laboratoriach II](https://github.com/dmatulewski/mgr) –
-   nie za bardzo wiadomo o co chodzi w tytule (prawie nikt nie wie co oznacza słowo Docker)
-1. (2) Motel Mateusz. [Technika oplog tailing ?w aplikacjach Meteor](https://github.com/mmotel/master-thesis) –
-   dlaczego powinniśmy wiedziec co to jest oplog tailing?
-1. (2) Motławski Mateusz. [Zastosowanie ui-elements z Polymer w MeteorJS](https://github.com/miotla007/magisterka) – artykuł na blogu
-1. (2) Plichta Oskar. [Tworzenie przyjaznego interfejsu użytkownika…](https://github.com/oplichta/magisterka) — jw.
-1. (2) Sott Tomasz. [Porównanie pakietów…](https://github.com/tsott/mgr) – jw.
-1. (1) Zawodny Paweł.
+1. Detlaf Krzysztof.<br>
+   [Geolokalizacja oraz interaktywne wykorzystanie Google Maps, Leaflet Privider w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
+1. Domurat Szymon.<br>
+   [Aplikacja eventowa wykorzystująca nowoczesne technologie JavaScript](https://github.com/sdomurat/mgr)
+1. Królik Przemysław.<br>
+   [Przyśpieszanie aplikacji webowych w Service Oriented Architecture](https://github.com/Necromos/mgr)
+1. Kwiatkowski Mateusz.<br>
+   [Walidacja w MeteorJS na przykładzie elektronicznego indeksu](https://github.com/Flover/praca_magisterska)
+1. Lewandowska Marta.<br>
+   [Automatyzacja testów w aplikacjach webowych](https://github.com/mlewandowska/thesis)
+1. Małecki Maciej.<br>
+   [Budowanie wydajnych i skalowalnych aplikacji webowych](https://github.com/smt116/master-thesis)
+1. Matulewski Damian.<br>
+   [Wykorzystanie Dockera w laboratoriach II](https://github.com/dmatulewski/mgr)
+1. Motel Mateusz.<br>
+   [Technika oplog tailing w aplikacjach Meteor](https://github.com/mmotel/master-thesis)
+1. Motławski Mateusz.<br>
+   [Zastosowanie ui-elements z Polymer w MeteorJS](https://github.com/miotla007/magisterka)
+1. Plichta Oskar.<br>
+   [Jak stworzyć przyjazny interfejs użytkownika do udostępniania fotografii w AngularJS?](https://github.com/oplichta/magisterka)
+1. Sott Tomasz.<br>
+   [Porównanie pakietów…](https://github.com/tsott/mgr)
+1. Zawodny Paweł.
 
 *UWAGI:*
 
@@ -128,6 +132,7 @@ Seminarium odwołane.
   - [Learn to build an application using Angular.js](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro) – na Code School
   - [Meteor 0.8.1.2 RC, **ECMASCRIPT 6 Integration**, DDP and More](http://meteorhacks.com/meteor-weekly-0-8-1-2-rc-es6-integration-ddp.html?utm_content=buffer8f456)
   - [What's involved to use TokuMX as a MongoDB replacement backend for Meteor?](https://groups.google.com/forum/#!topic/meteor-talk/9Ysxz05dp1A)
+  - [Addy Osmani. Detect, Undo and Redo DOM Changes With Mutation Observers](http://addyosmani.com/blog/mutation-observers/)
 1. Przemysław Królik. [Meteor – Iron Router](http://slides.com/necromos/iron)
   - [Introduction to DDP](http://meteorhacks.com/introduction-to-ddp.html)
 
@@ -145,14 +150,16 @@ Seminarium odwołane.
 
 1. Plichta Oskar. [Atom+Emmet](http://slides.com/oplichta/e)
 1. Sott Tomasz. [Meteor smart packages – używanie i tworzenie](http://slides.com/supersott/meteor-smart-packages-uzywanie-i-tworzenie)
-1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker)
+1. Matulewski Damian. [Docker](http://slid.es/dam_1/docker):
+  - [Linux for Massive Server Deployments](https://coreos.com/)
+  - [Containerize your Rails application](http://blog.zedroot.org/containerize-your-rails-application/)
 
 **29.05.2014**:
 
 [**Nigdy, przenigdy nie zaczynamy pracy od *Agendy***](http://korpus.pl/poliqarp/poliqarp.php).
 
-1. Kwiatkowski Mateusz.
-1. Motławski Mateusz.
+1. Kwiatkowski Mateusz. [Mesosphere](http://slides.com/mateuszkwiatkowski/mesosphere)
+1. Motławski Mateusz. [Polymer](http://slides.com/miotla007/polymer)
 1. Zawodny Paweł.
 1. Krzysztof Detlaf.
 
