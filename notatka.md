@@ -1,3 +1,5 @@
+## Notatka dotycząca poprawności językowej
+
 1. Nazwy pochodzące z języka angielskiego piszemy kursywą.
 
 1. Odmieniając wyrazy pochodzące z innego języka niż polski które kończą się na niewymawianą literę piszemy z apostrofem. 
