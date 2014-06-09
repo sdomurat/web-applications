@@ -95,3 +95,12 @@ Tematy prac magisterskich (**deadline: 25.05.2014**).
 1. [Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/)
    – Vincent Walsh, Prof. Neuroscience UCL (interview).
 1. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).
+
+
+## Nasza poradnia językowa…
+
+… i na wszelki wypadek:
+
+* Telefoniczna Poradnia Językowa UG: 58 523-20-25, dni powszednie
+  w godz. 13.00-14.30. Wydział Filologiczny UG, Gdańsk Oliwia, ul. Wita
+  Stwosza 55, pok. nr 3.52.
