@@ -104,3 +104,5 @@ Tematy prac magisterskich (**deadline: 25.05.2014**).
 * Telefoniczna Poradnia Językowa UG: 58 523-20-25, dni powszednie
   w godz. 13.00-14.30. Wydział Filologiczny UG, Gdańsk Oliwia, ul. Wita
   Stwosza 55, pok. nr 3.52.
+  
+ * [notatka dotycząca poprawności językowej](notatka.md)
