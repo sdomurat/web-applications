@@ -76,11 +76,11 @@ Motławski Mateusz. [Zastosowanie ui-elements z Polymer w MeteorJS](https://gith
 - [Polymer. Using Elements](http://www.polymer-project.org/docs/start/usingelements.html)
 
 
-Plichta Oskar. [Tworzenie przyjaznego interfejsu użytkownika…](https://github.com/oplichta/magisterka)
-- [Josh Owens. Why Meteor will kill Ruby on Rails. 2013. Differential.](http://differential.io/blog/meteor-killin-rails)
-- [Robb Shecter. Meteor Won’t Kill Rails Anytime Soon. 2013. The Robb Report.](http://robb.weblaws.org/2013/11/09/rails-will-ruby-kill-meteor-on-why/)
-- [Timo Zimmermann. Meteor Is Just A Toy. 2012. Screaming at my screen.](http://www.screamingatmyscreen.com/2012/4/meteor-is-just-a-toy/)
-- Michał Kwiatkowski. [How to integrate AngularJS with Rails 4. 2013. Shelly Cloud](https://shellycloud.com/blog/2013/10/how-to-integrate-angularjs-with-rails-4).
+Plichta Oskar. [Jak stworzyć przyjazny interfejs użytkownika do udostępniania fotografii w AngularJS?](https://github.com/oplichta/magisterka)
+- [Josh Owens. Why Meteor will kill Ruby on Rails. 2013. Differential. ](http://differential.io/blog/meteor-killin-rails)
+- [Robb Shecter. Meteor Won’t Kill Rails Anytime Soon. 2013. The Robb Report. ](http://robb.weblaws.org/2013/11/09/rails-will-ruby-kill-meteor-on-why/)
+- [Timo Zimmermann. Meteor Is Just A Toy. 2012. Screaming at my screen. ](http://www.screamingatmyscreen.com/2012/4/meteor-is-just-a-toy/)
+- [Michał Kwiatkowski. How to integrate AngularJS with Rails 4. 2013. Shelly Cloud. ](https://shellycloud.com/blog/2013/10/how-to-integrate-angularjs-with-rails-4)
 
 
 Sott Tomasz. [Porównanie pakietów…](https://github.com/tsott/mgr)

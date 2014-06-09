@@ -37,7 +37,7 @@ W maju przygotowujecie konspekty prac magisterskich (**deadline: 25.05.2014**).
 1. Motławski Mateusz.<br>
    [Zastosowanie ui-elements z Polymer w MeteorJS](https://github.com/miotla007/magisterka)
 1. Plichta Oskar.<br>
-   [Tworzenie przyjaznego interfejsu użytkownika…](https://github.com/oplichta/magisterka)
+   [Jak stworzyć przyjazny interfejs użytkownika do udostępniania fotografii w AngularJS?](https://github.com/oplichta/magisterka)
 1. Sott Tomasz.<br>
    [Porównanie pakietów…](https://github.com/tsott/mgr)
 1. Zawodny Paweł.
