@@ -7,9 +7,8 @@
 
 ## Aplikacje Webowe 2
 
-> On the average, five times as many people read the headline as read
-  the body copy. When you have written your headline, you have spent
-  eighty cents out of your dollar.<br>
+> On the average, five times as many people read the headline as read the body copy.<br>
+> When you have written your headline, you have spent eighty cents out of your dollar.<br>
 > — David Ogilvy
 
 1. Małecki Maciej.<br>
@@ -86,9 +85,8 @@ Tematy prac magisterskich (**deadline: 25.05.2014**).
 > pretty good correlation between those who work with the doors open and
 > those who ultimately do important things, **although people who work
 > with doors closed often work harder. Somehow they seem to work on
-> slightly the wrong thing** – not much, but enough that they miss fame.
->
-> Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
+> slightly the wrong thing** – not much, but enough that they miss fame.<br>
+> — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
 ## Ważne rzeczy
 
