@@ -118,12 +118,14 @@ Tematy prac magisterskich (**deadline: 25.05.2014**).
   dalszej części pracy posługiwać się już tylko skrótem.
 
 #### Streszczenie a wprowadzenie
-1. Streszczenie
- * zawiera omówienie głównych tez pracy
- * powinno przedstawiać cele jakie pragnął osiągnąć autor
- * powinno także zawierać informację czy udało się je osiągnąć
-1. Wprowadzenie
- * jak nazwa wskazuje, ma wprowadzać w obszar problemowy pracy
- * powinno przedstawiać ogólne uwarunkowania problemu oraz opisać go w kontekście
- * powinno zawierać powód dlaczego poruszyło się taki temat
- * warto odnosić się do dorobków innych badaczy (jeżeli istnieją)
+
+Streszczenie
+* zawiera omówienie głównych tez pracy
+* powinno przedstawiać cele jakie pragnął osiągnąć autor
+* powinno także zawierać informację czy udało się je osiągnąć
+
+Wprowadzenie
+* jak nazwa wskazuje, ma wprowadzać w obszar problemowy pracy
+* powinno przedstawiać ogólne uwarunkowania problemu oraz **opisać go w kontekście**
+* powinno zawierać powód dlaczego poruszyło się taki temat
+* **należy** odnosić się do dorobku innych badaczy (jeżeli istnieją)
