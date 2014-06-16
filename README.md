@@ -117,13 +117,17 @@ Tematy prac magisterskich (**deadline na rzeczy wymienione w #issue 54: 22.06.20
   dolnym. Można w nim zapisać skrót od nazwy(w tym wypadku SOA) i w
   dalszej części pracy posługiwać się już tylko skrótem.
 
-**TODO:** Znalazłem taką zasadę. Czy ona obowiązuje – tego nie wiem.
+**TODO:** [Znalazłem taką zasadę](http://www.polonistyka.fil.ug.edu.pl/?id_cat=309&id_art=1183&lang=pl).
+Czy ona obowiązuje dla nazw języków programowania
+(*Ruby*, *Python*, *Scala*, *Java*) – tego nie wiem.
 
 1. Odmiana nazw własnych obcych.
   Nazwy własne rodzaju **żeńskiego** kończące się na literę *-y* nie odmieniamy.
-  Nazwy własne rodzaju **męskiego** odmieniamy, np.
-  *Ruby* (*-by’ego*, *-bym*) (oczywiście, o ile *Ruby* jest rodzaju męskiego;
-  jak jest naprawdę tego nie wiem).
+  Nazwy własne rodzaju **męskiego** odmieniamy, np. *Ruby* (*-by’ego*,
+  tylko [narzędnik i miejscownik](http://pl.wikipedia.org/wiki/Deklinacja_%28j%C4%99zykoznawstwo%29)
+  – *-bym*).
+  (Oczywiście, o ile *Ruby* jest rodzaju męskiego.
+  Jak jest naprawdę lub jak to rozstrzygnąć – tego też nie wiem.)
 
 
 #### Streszczenie a wprowadzenie
