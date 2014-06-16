@@ -18,7 +18,7 @@
 
 ----
 
-Tematy prac magisterskich (**deadline: 25.05.2014**).
+Tematy prac magisterskich (**deadline na rzeczy wymienione w #issue 54: 22.06.2014**).
 
 1. Detlaf Krzysztof.<br>
    [Geolokalizacja oraz interaktywne wykorzystanie Google Maps, Leaflet Privider w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
