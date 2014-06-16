@@ -119,18 +119,19 @@ Tematy prac magisterskich (**deadline na rzeczy wymienione w #issue 54: 22.06.20
 
 **TODO:** [Znalazłem taką zasadę](http://www.polonistyka.fil.ug.edu.pl/?id_cat=309&id_art=1183&lang=pl).
 Czy ona obowiązuje dla nazw języków programowania
-(*Ruby*, *Python*, *Scala*, *Java*) – tego nie wiem.
+(*Ruby*, *Python*, *Java*, *Scala*) – tego nie wiem.
 
 Odmiany nazw własnych obcych (kontynuacja pkt. 3. powyżej).
 
 1. Nazwy własne rodzaju **żeńskiego** kończące się na literę *-y* nie odmieniamy.
+  (Fragment jakiejś ogólnej zasady. Jakiej?)
 1. Nazwy własne rodzaju **męskiego** odmieniamy, np. *Ruby* (*-by’ego*,
   tylko [narzędnik i miejscownik](http://pl.wikipedia.org/wiki/Deklinacja_%28j%C4%99zykoznawstwo%29)
   – *-bym*). (Oczywiście, o ile *Ruby* jest rodzaju męskiego.
   Jak jest naprawdę lub jak to rozstrzygnąć – tego też nie wiem.)
 
-Czego nie wiemy? Piszemy w Meteorzejs czy w Meteorjs. To samo dla Phantomjs.
-W JavaScripcie czy JavaScriptcie
+Czego nie wiemy? Piszemy w Meteorzejs czy w Meteorjs? To samo dla Phantomjs.
+W JavaScripcie czy JavaScriptcie?
 
 
 #### Streszczenie a wprowadzenie
