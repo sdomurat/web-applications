@@ -111,11 +111,20 @@ Tematy prac magisterskich (**deadline na rzeczy wymienione w #issue 54: 22.06.20
 1. Odmieniając wyrazy pochodzące z innego języka niż polski które
   kończą się na niewymawianą literę piszemy z apostrofem. Dla
   przykładu: Verne, Verne'a.  Nazwy jak *Angularjs*, *Docker*, *framework*,
-  *Javascript*, *Meteorjs*, *Phantomjs*, *Polymer* odmieniamy zwyczajnie.
+  *Javascript*, *Meteorjs*, *Phantomjs*, *Polymer* odmieniamy zwyczajnie.<br>
 1. W przypadku długich nazw w języku angielskim, takich jak *Service
   Oriented Architekture*, nazwę należy przetłumaczyć w przypisie
   dolnym. Można w nim zapisać skrót od nazwy(w tym wypadku SOA) i w
   dalszej części pracy posługiwać się już tylko skrótem.
+
+**TODO:** Znalazłem taką zasadę. Czy ona obowiązuje – tego nie wiem.
+
+1. Odmiana nazw własnych obcych.
+  Nazwy własne rodzaju **żeńskiego** kończące się na literę *-y* nie odmieniamy.
+  Nazwy własne rodzaju **męskiego** odmieniamy, np.
+  *Ruby* (*-by’ego*, *-bym*) (oczywiście, o ile *Ruby* jest rodzaju męskiego;
+  jak jest naprawdę tego nie wiem).
+
 
 #### Streszczenie a wprowadzenie
 
