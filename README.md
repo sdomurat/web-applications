@@ -130,8 +130,14 @@ Odmiany nazw własnych obcych (kontynuacja pkt. 3. powyżej).
   – *-bym*). (Oczywiście, o ile *Ruby* jest rodzaju męskiego.
   Jak jest naprawdę lub jak to rozstrzygnąć – tego też nie wiem.)
 
-Czego nie wiemy? Piszemy w Meteorzejs czy w Meteorjs? To samo dla Phantomjs.
-W JavaScripcie czy JavaScriptcie?
+Czego nie wiemy? Jak piszemy w Meteorzejs, w Meteorjs, w Meteorze.js,
+w Meteor.js, czy po prostu w Meteorze? To samo dla frameworka AngularJS,
+chociaż na stronie https://angularjs.org/ jest też
+„Learn Angular in your browser for free!”
+(czy raz piszemy AngularJS a raz Angular i wtedy od czego to zależy?)
+To samo dla PhantomJS i Ember.js.
+
+Czy AngualrJS piszemy kursywą czy pismem prostym?
 
 
 #### Streszczenie a wprowadzenie
