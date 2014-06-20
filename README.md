@@ -121,14 +121,16 @@ ortograficznego PWN (2010), który ma charakter normatywny, słowo
 *Java* jest nieodmienne.
 Jest to wyznacznik dla innych języków programowania takich jak *Ruby*,
 *Python*, *Scala*. Odmianę taką zastosowano w celu odróżnienia od
-odmiany nazwisk. Poprawna odmiana:
+odmiany nazwisk.<br>
+Poprawna odmiana:
 M. język *Java*
 D. języka *Java*
 1. Nazw frameworków podobnie jak nazw języków nie odmieniamy.
 Poprawną wersją zapisu w pracy magisterskiej jest framework
 *MeteorJS*, framework *AngularJS*, framework *PhantomJS*, framework
 *EmberJS*. Odmiany w *Meteorze*, w *Angularze* itd. są dopuszczalne w
-mowie potocznej. Poprawna odmiana:
+mowie potocznej.<br>
+Poprawna odmiana:
 M. framework *MeteorJS*
 D. frameworka *MeteorJS*
 1. *AngularJS*, *Node.js*, *Meteor* itd piszemy kursywą.
