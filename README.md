@@ -142,13 +142,22 @@ Czy AngualrJS piszemy kursywą czy pismem prostym?
 
 #### Streszczenie a wprowadzenie
 
-Streszczenie
+Streszczenie:
 * zawiera omówienie głównych tez pracy
 * powinno przedstawiać cele jakie pragnął osiągnąć autor
 * powinno także zawierać informację czy udało się je osiągnąć
 
-Wprowadzenie
+Wprowadzenie:
 * jak nazwa wskazuje, ma wprowadzać w obszar problemowy pracy
 * powinno przedstawiać ogólne uwarunkowania problemu oraz **opisać go w kontekście**
 * powinno zawierać powód dlaczego poruszyło się taki temat
 * **należy** odnosić się do dorobku innych badaczy (jeżeli istnieją)
+
+
+#### Bibliografia
+
+1. „Junior” po nazwisku.
+Na stronie [Rady Języka Polskiego](http://www.rjp.pan.pl/index.php?option=com_content&view=article&id=807:junior-po-nazwisku-&catid=76:opinie-o-imionach&Itemid=58)
+jest wyjaśnione, że w Polsce np. na wizytówce zapisze się
+xAdam XXX jun. albo Adam XXX jr (uwaga: jr bez kropki na końcu),
+a w USA – Adam XXX Jr.  (duże J i kropka na końcu).
