@@ -123,10 +123,10 @@ Czy ona obowiązuje dla nazw języków programowania
 
 * Powyższa zasada nie obowiązuje w przypadku nazw języków programowania. 
 Nazw języków programowania nie odmieniamy. Według Wielkiego słownika ortograficznego PWN (2010), który ma charakter normatywny, słowo *Java* jest nieodmienne.
-Jest to wyznacznik dla innych języków programowania takich jak *Ruby*, *Python*, *Scala*. Odmianę taką zastosowano w celu odróżnienia od odmiany nazwisk. 
-...Poprawna odmiana: 
-...M. język *Java* 
-...D. języka *Java*
+Jest to wyznacznik dla innych języków programowania takich jak *Ruby*, *Python*, *Scala*. Odmianę taką zastosowano w celu odróżnienia od odmiany nazwisk.  
+Poprawna odmiana:  
+M. język *Java*  
+D. języka *Java*
 
 	Odmiany nazw własnych obcych (kontynuacja pkt. 3. powyżej).
 
@@ -150,10 +150,10 @@ chociaż na stronie https://angularjs.org/ jest też
 To samo dla PhantomJS i Ember.js.
 
 * Nazw frameworków podobnie jak nazw języków nie odmieniamy.
-Poprawną wersją zapisu w pracy magisterskiej jest *MeteorJS*, *AngularJS*, *PhantomJS*, *EmberJS*. Odmiany *Meteor*, w *Meteorze*, *Angular*, w *Angularze* itd. są dopuszczalne w mowie potocznej. 
-...Poprawna odmiana: 
-...M. *framework MeteorJS* 
-...D. *frameworka MeteorJS*
+Poprawną wersją zapisu w pracy magisterskiej jest *MeteorJS*, *AngularJS*, *PhantomJS*, *EmberJS*. Odmiany *Meteor*, w *Meteorze*, *Angular*, w *Angularze* itd. są dopuszczalne w mowie potocznej.  
+Poprawna odmiana:  
+M. *framework MeteorJS*  
+D. *frameworka MeteorJS*
 	
 Czy AngualrJS piszemy kursywą czy pismem prostym?
 
