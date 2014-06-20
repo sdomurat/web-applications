@@ -114,21 +114,33 @@ Tematy prac magisterskich (**deadline na rzeczy wymienione w #issue 54: 22.06.20
   dalszej części pracy posługiwać się już tylko skrótem.
 1. Odmieniając wyrazy pochodzące z innego języka niż polski które
   kończą się na niewymawianą literę piszemy z apostrofem. Dla
-  przykładu: Verne, Verne'a.  Nazwy jak *Angularjs*, *Docker*, *framework*,
-  *JavaScript*, *Meteorjs*, *Phantomjs*, *Polymer* odmieniamy zwyczajnie.
+  przykładu: Verne, Verne'a.  Nazw jak *Angularjs*, *Docker*, *framework*,
+  *JavaScript*, *Meteorjs*, *Phantomjs*, *Polymer* nie odmieniamy w ten sposób.
 
 **TODO:** [Znalazłem taką zasadę](http://www.polonistyka.fil.ug.edu.pl/?id_cat=309&id_art=1183&lang=pl).
 Czy ona obowiązuje dla nazw języków programowania
 (*Ruby*, *Python*, *Java*, *Scala*) – tego nie wiem.
 
-Odmiany nazw własnych obcych (kontynuacja pkt. 3. powyżej).
+* Powyższa zasada nie obowiązuje w przypadku nazw języków programowania. 
+Nazw języków programowania nie odmieniamy. Według Wielkiego słownika ortograficznego PWN (2010), który ma charakter normatywny, słowo *Java* jest nieodmienne.
+Jest to wyznacznik dla innych języków programowania takich jak *Ruby*, *Python*, *Scala*. Odmianę taką zastosowano w celu odróżnienia od odmiany nazwisk.  
+Poprawna odmiana:  
+M. język *Java*  
+D. języka *Java*
+
+	Odmiany nazw własnych obcych (kontynuacja pkt. 3. powyżej).
 
 1. Nazwy własne rodzaju **żeńskiego** kończące się na literę *-y* nie odmieniamy.
   (Fragment jakiejś ogólnej zasady. Jakiej?)
+  
+* Istnieje zasada, według której dla rodzaju **żeńskiego** nazwy własne, zarówno rodzime jak i pochodzenia obcego, odmieniamy tylko wtedy kiedy kończą się na *-a*.
+
 1. Nazwy własne rodzaju **męskiego** odmieniamy, np. *Ruby* (*-by’ego*,
   tylko [narzędnik i miejscownik](http://pl.wikipedia.org/wiki/Deklinacja_%28j%C4%99zykoznawstwo%29)
   – *-bym*). (Oczywiście, o ile *Ruby* jest rodzaju męskiego.
   Jak jest naprawdę lub jak to rozstrzygnąć – tego też nie wiem.)
+
+* Nazwy *Ruby* nie odmieniamy ponieważ jest to język programowania.
 
 Czego nie wiemy? Jak piszemy w Meteorzejs, w Meteorjs, w Meteorze.js,
 w Meteor.js, czy po prostu w Meteorze? To samo dla frameworka AngularJS,
@@ -137,8 +149,15 @@ chociaż na stronie https://angularjs.org/ jest też
 (czy raz piszemy AngularJS a raz Angular i wtedy od czego to zależy?)
 To samo dla PhantomJS i Ember.js.
 
-Czy AngualrJS piszemy kursywą czy pismem prostym?
+* Nazw frameworków podobnie jak nazw języków nie odmieniamy.
+Poprawną wersją zapisu w pracy magisterskiej jest framework *MeteorJS*, framework *AngularJS*, framework *PhantomJS*, framework *EmberJS*. Odmiany *Meteor*, w *Meteorze*, *Angular*, w *Angularze* itd. są dopuszczalne w mowie potocznej.  
+Poprawna odmiana:  
+M. framework *MeteorJS*  
+D. frameworka *MeteorJS*
+	
+Czy AngularJS piszemy kursywą czy pismem prostym?
 
+* AngularJS piszemy kursywą. Jest to nazwa własna pochodząca z języka angielskiego
 
 #### Streszczenie a wprowadzenie
 
