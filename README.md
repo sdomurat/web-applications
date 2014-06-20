@@ -162,5 +162,5 @@ jest wyjaśnione, że w Polsce np. na wizytówce zapisze się
 Adam XXX jun. albo Adam XXX jr (uwaga: jr bez kropki na końcu),
 a w USA – Adam XXX Jr.  (duże J i kropka na końcu).
 
-W naszych bibliografiach będzie zawsze Jr. (Do tej pory
-nie widziałem na polskich stronach autora juniora.)
+W naszych bibliografiach będzie zawsze Jr. 
+Do tej pory nie widziałem na polskich stronach autora juniora :bowtie:
