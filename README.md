@@ -127,12 +127,12 @@ M. język *Java*<br>
 D. języka *Java*
 1. Nazw frameworków podobnie jak nazw języków nie odmieniamy.
 Poprawną wersją zapisu w pracy magisterskiej jest framework
-*MeteorJS*, framework *AngularJS*, framework *PhantomJS*, framework
-*EmberJS*. Odmiany w *Meteorze*, w *Angularze* itd. są dopuszczalne w
-mowie potocznej.<br>
+*Meteor*, framework *AngularJS*, framework *Ember.js*, platforma *Node.js*.
+Odmiany w *Meteorze*, w *Angularze* itd. są dopuszczalne
+w mowie potocznej.<br>
 Poprawna odmiana:<br>
-M. framework *MeteorJS*<br>
-D. frameworka *MeteorJS*
+M. framework *Meteor*<br>
+D. frameworka *Meteor*
 1. *AngularJS*, *Node.js*, *Meteor* itd piszemy kursywą.
 Są to nazwy własne pochodząca z języka angielskiego.
 
