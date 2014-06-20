@@ -127,7 +127,7 @@ Jest to wyznacznik dla innych języków programowania takich jak *Ruby*, *Python
 Poprawna odmiana:
 M. język *Java*
 D. języka *java*
-...
+
 
 	Odmiany nazw własnych obcych (kontynuacja pkt. 3. powyżej).
 
@@ -155,7 +155,6 @@ Poprawną wersją zapisu w pracy magisterskiej jest *MeteorJS*, *AngularJS*, *Ph
 Poprawna odmiana:
 M. *framework MeteorJS*
 D. *frameworka MeteorJS*
-	...
 	
 Czy AngualrJS piszemy kursywą czy pismem prostym?
 
