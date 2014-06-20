@@ -105,7 +105,7 @@ Tematy prac magisterskich (**deadline na rzeczy wymienione w #issue 54: 22.06.20
   w godz. 13.00-14.30. Wydział Filologiczny UG, Gdańsk Oliwia, ul. Wita
   Stwosza 55, pok. nr 3.52.
 
-* [Wielki słownik ortograficzny PWN](http://so.pwn.pl/)
+* [Wielki słownik ortograficzny PWN online](http://so.pwn.pl/)
 
 #### Język angielski
 
