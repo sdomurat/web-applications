@@ -150,10 +150,10 @@ chociaż na stronie https://angularjs.org/ jest też
 To samo dla PhantomJS i Ember.js.
 
 * Nazw frameworków podobnie jak nazw języków nie odmieniamy.
-Poprawną wersją zapisu w pracy magisterskiej jest *MeteorJS*, *AngularJS*, *PhantomJS*, *EmberJS*. Odmiany *Meteor*, w *Meteorze*, *Angular*, w *Angularze* itd. są dopuszczalne w mowie potocznej.  
+Poprawną wersją zapisu w pracy magisterskiej jest framework *MeteorJS*, framework *AngularJS*, framework *PhantomJS*, framework *EmberJS*. Odmiany *Meteor*, w *Meteorze*, *Angular*, w *Angularze* itd. są dopuszczalne w mowie potocznej.  
 Poprawna odmiana:  
-M. *framework MeteorJS*  
-D. *frameworka MeteorJS*
+M. framework *MeteorJS*  
+D. frameworka *MeteorJS*
 	
 Czy AngualrJS piszemy kursywą czy pismem prostym?
 
