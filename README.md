@@ -156,7 +156,7 @@ Wprowadzenie:
 
 #### Bibliografia
 
-1. „Junior” po nazwisku.
+1\. „Junior” po nazwisku.
 Na stronie [Rady Języka Polskiego](http://www.rjp.pan.pl/index.php?option=com_content&view=article&id=807:junior-po-nazwisku-&catid=76:opinie-o-imionach&Itemid=58)
 jest wyjaśnione, że w Polsce np. na wizytówce zapisze się
 Adam XXX jun. albo Adam XXX jr (uwaga: jr bez kropki na końcu),
