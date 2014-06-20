@@ -155,7 +155,7 @@ Poprawna odmiana:
 M. framework *MeteorJS*  
 D. frameworka *MeteorJS*
 	
-Czy AngualrJS piszemy kursywą czy pismem prostym?
+Czy AngularJS piszemy kursywą czy pismem prostym?
 
 * AngularJS piszemy kursywą. Jest to nazwa własna pochodząca z języka angielskiego
 
