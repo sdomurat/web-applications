@@ -134,7 +134,7 @@ Poprawna odmiana:<br>
 M. framework *Meteor*<br>
 D. frameworka *Meteor*
 1. *AngularJS*, *Node.js*, *Meteor* itd piszemy kursywą.
-Są to nazwy własne pochodząca z języka angielskiego.
+Są to nazwy własne pochodzące z języka angielskiego.
 
 
 #### Streszczenie a wprowadzenie
