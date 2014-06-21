@@ -14,7 +14,7 @@
 1. Małecki Maciej.<br>
    [Budowanie wydajnych i skalowalnych aplikacji webowych](https://github.com/smt116/master-thesis)
 1. Motel Mateusz.<br>
-   [Technika oplog tailing w aplikacjach Meteor](https://github.com/mmotel/master-thesis)
+   [Technika *oplog tailing* w aplikacjach *Meteor*](https://github.com/mmotel/master-thesis)
 
 ----
 
