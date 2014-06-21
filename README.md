@@ -150,7 +150,7 @@ Wprowadzenie:
 * jak nazwa wskazuje, ma wprowadzać w obszar problemowy pracy
 * powinno przedstawiać ogólne uwarunkowania problemu oraz **opisać go w kontekście**
 * powinno zawierać powód dlaczego poruszyło się taki temat
-* **należy** odnosić się do dorobku innych badaczy (jeżeli istnieją)
+* należy odnieść się do dorobku innych badaczy
 
 
 #### Bibliografia
