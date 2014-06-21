@@ -34,13 +34,13 @@
 **Deadline na rzeczy wymienione w [#issue 54](https://github.com/seminarium/web-applications/issues/54): 22.06.2014**
 
 1. Detlaf Krzysztof.<br>
-   [Geolokalizacja oraz interaktywne wykorzystanie Google Maps, Leaflet Privider w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
+   [Geolokalizacja oraz interaktywne wykorzystanie *Google Maps*. *Leaflet Provider* w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
 1. Domurat Szymon.<br>
-   [Aplikacja eventowa wykorzystująca nowoczesne technologie JavaScript](https://github.com/sdomurat/mgr)
+   [Aplikacja eventowa wykorzystująca nowoczesne technologie *JavaScript*](https://github.com/sdomurat/mgr)
 1. Kwiatkowski Mateusz.<br>
-   [Walidacja w MeteorJS na przykładzie elektronicznego indeksu](https://github.com/Flover/praca_magisterska)
+   [Walidacja w *Meteor* na przykładzie elektronicznego indeksu](https://github.com/Flover/praca_magisterska)
 1. Matulewski Damian.<br>
-   [Wykorzystanie Dockera w laboratoriach II](https://github.com/dmatulewski/mgr)
+   [Wykorzystanie kontenerów *Docker* w laboratoriach II](https://github.com/dmatulewski/mgr)
 1. Zawodny Paweł.
 
 ----
