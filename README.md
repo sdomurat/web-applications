@@ -18,27 +18,32 @@
 
 ----
 
-Tematy prac magisterskich (**deadline na rzeczy wymienione w #issue 54: 22.06.2014**).
+1. Królik Przemysław.<br>
+   [Przyśpieszanie aplikacji webowych w *Service-Oriented Architecture*](https://github.com/Necromos/mgr)
+1. Lewandowska Marta.<br>
+   [Automatyzacja testów aplikacji webowych w modelu *Scrum*](https://github.com/mlewandowska/thesis)
+1. Motławski Mateusz.<br>
+   [Zastosowanie elementów *Polymer UI* w aplikacjach *Meteor*](https://github.com/miotla007/magisterka)
+1. Plichta Oskar.<br>
+   [Tworzenie przyjaznego interfejsu użytkownika w aplikacjach do udostępniania fotografii](https://github.com/oplichta/magisterka)
+1. Sott Tomasz.<br>
+   [Budowa i zastosowanie pakietu do automatyzacji powiadomień przez email i portal *fb.com* we frameworku *Meteor*](https://github.com/tsott/mgr)
+
+----
+
+**Deadline na rzeczy wymienione w [#issue 54](https://github.com/seminarium/web-applications/issues/54): 22.06.2014**
 
 1. Detlaf Krzysztof.<br>
    [Geolokalizacja oraz interaktywne wykorzystanie Google Maps, Leaflet Privider w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
 1. Domurat Szymon.<br>
    [Aplikacja eventowa wykorzystująca nowoczesne technologie JavaScript](https://github.com/sdomurat/mgr)
-1. Królik Przemysław.<br>
-   [Przyśpieszanie aplikacji webowych w Service Oriented Architecture](https://github.com/Necromos/mgr)
 1. Kwiatkowski Mateusz.<br>
    [Walidacja w MeteorJS na przykładzie elektronicznego indeksu](https://github.com/Flover/praca_magisterska)
-1. Lewandowska Marta.<br>
-   [Automatyzacja testów w aplikacjach webowych](https://github.com/mlewandowska/thesis)
 1. Matulewski Damian.<br>
    [Wykorzystanie Dockera w laboratoriach II](https://github.com/dmatulewski/mgr)
-1. Motławski Mateusz.<br>
-   [Zastosowanie ui-elements z Polymer w MeteorJS](https://github.com/miotla007/magisterka)
-1. Plichta Oskar.<br>
-   [Jak stworzyć przyjazny interfejs użytkownika do udostępniania fotografii w AngularJS?](https://github.com/oplichta/magisterka)
-1. Sott Tomasz.<br>
-   [Porównanie pakietów…](https://github.com/tsott/mgr)
 1. Zawodny Paweł.
+
+----
 
 *UWAGI:*
 
