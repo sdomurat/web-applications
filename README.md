@@ -20,6 +20,8 @@
 
 1. Królik Przemysław.<br>
    [Przyśpieszanie aplikacji webowych w *Service-Oriented Architecture*](https://github.com/Necromos/mgr)
+1. Kwiatkowski Mateusz.<br>
+   [Walidacja w aplikacjach *Meteor*](https://github.com/Flover/praca_magisterska)
 1. Lewandowska Marta.<br>
    [Automatyzacja testów aplikacji webowych w modelu *Scrum*](https://github.com/mlewandowska/thesis)
 1. Motławski Mateusz.<br>
@@ -37,8 +39,6 @@
    [Geolokalizacja oraz interaktywne wykorzystanie *Google Maps*. *Leaflet Provider* w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
 1. Domurat Szymon.<br>
    [Aplikacja eventowa wykorzystująca nowoczesne technologie *JavaScript*](https://github.com/sdomurat/mgr)
-1. Kwiatkowski Mateusz.<br>
-   [Walidacja w aplikacjach *Meteor*](https://github.com/Flover/praca_magisterska)
 1. Matulewski Damian.<br>
    [Wykorzystanie kontenerów *Docker* w laboratoriach II](https://github.com/dmatulewski/mgr)
 1. Zawodny Paweł.
