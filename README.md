@@ -38,7 +38,7 @@
 1. Domurat Szymon.<br>
    [Aplikacja eventowa wykorzystująca nowoczesne technologie *JavaScript*](https://github.com/sdomurat/mgr)
 1. Kwiatkowski Mateusz.<br>
-   [Walidacja w *Meteor* na przykładzie elektronicznego indeksu](https://github.com/Flover/praca_magisterska)
+   [Walidacja w aplikacjach *Meteor*](https://github.com/Flover/praca_magisterska)
 1. Matulewski Damian.<br>
    [Wykorzystanie kontenerów *Docker* w laboratoriach II](https://github.com/dmatulewski/mgr)
 1. Zawodny Paweł.
