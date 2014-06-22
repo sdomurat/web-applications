@@ -40,7 +40,7 @@
    [Wykorzystanie kontenerów *Docker* w laboratoriach Instytutu Informatyki](https://github.com/dmatulewski/mgr)
 
 
-## NA
+## *NA*
 
 1. Detlaf Krzysztof.<br>
    [Geolokalizacja oraz interaktywne wykorzystanie *Google Maps*. *Leaflet Provider* w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
