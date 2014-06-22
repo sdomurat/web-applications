@@ -34,6 +34,8 @@
 
 **Deadline na rzeczy wymienione w [#issue 54](https://github.com/seminarium/web-applications/issues/54): 24.08.2014**
 
+1. Domurat Szymon.<br>
+   [Technologie budowania aplikacji proponującej wydarzenia opartej o platformę *Node.js*](https://github.com/sdomurat/mgr)
 1. Kwiatkowski Mateusz.<br>
    [Walidacja w aplikacjach *Meteor*](https://github.com/Flover/praca_magisterska)
 1. Matulewski Damian.<br>
@@ -43,9 +45,7 @@
 ## *NA*
 
 1. Detlaf Krzysztof.<br>
-   [Geolokalizacja oraz interaktywne wykorzystanie *Google Maps*. *Leaflet Provider* w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
-1. Domurat Szymon.<br>
-   [Aplikacja eventowa wykorzystująca nowoczesne technologie *JavaScript*](https://github.com/sdomurat/mgr)
+   [*Leaflet Provider* w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
 1. Zawodny Paweł.
 
 
