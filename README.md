@@ -36,6 +36,8 @@
 
 1. Kwiatkowski Mateusz.<br>
    [Walidacja w aplikacjach *Meteor*](https://github.com/Flover/praca_magisterska)
+1. Matulewski Damian.<br>
+   [Wykorzystanie kontenerów *Docker* w laboratoriach Instytutu Informatyki](https://github.com/dmatulewski/mgr)
 
 
 ## NA
@@ -44,8 +46,6 @@
    [Geolokalizacja oraz interaktywne wykorzystanie *Google Maps*. *Leaflet Provider* w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
 1. Domurat Szymon.<br>
    [Aplikacja eventowa wykorzystująca nowoczesne technologie *JavaScript*](https://github.com/sdomurat/mgr)
-1. Matulewski Damian.<br>
-   [Wykorzystanie kontenerów *Docker* w laboratoriach II](https://github.com/dmatulewski/mgr)
 1. Zawodny Paweł.
 
 
