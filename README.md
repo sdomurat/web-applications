@@ -20,8 +20,6 @@
 
 1. Królik Przemysław.<br>
    [Przyśpieszanie aplikacji webowych w *Service-Oriented Architecture*](https://github.com/Necromos/mgr)
-1. Kwiatkowski Mateusz.<br>
-   [Walidacja w aplikacjach *Meteor*](https://github.com/Flover/praca_magisterska)
 1. Lewandowska Marta.<br>
    [Automatyzacja testów aplikacji webowych w modelu *Scrum*](https://github.com/mlewandowska/thesis)
 1. Motławski Mateusz.<br>
@@ -31,9 +29,16 @@
 1. Sott Tomasz.<br>
    [Budowa i zastosowanie pakietu do automatyzacji powiadomień przez email i portal *fb.com* we frameworku *Meteor*](https://github.com/tsott/mgr)
 
-----
 
-**Deadline na rzeczy wymienione w [#issue 54](https://github.com/seminarium/web-applications/issues/54): 22.06.2014**
+## Poprawka
+
+**Deadline na rzeczy wymienione w [#issue 54](https://github.com/seminarium/web-applications/issues/54): 24.08.2014**
+
+1. Kwiatkowski Mateusz.<br>
+   [Walidacja w aplikacjach *Meteor*](https://github.com/Flover/praca_magisterska)
+
+
+## NA
 
 1. Detlaf Krzysztof.<br>
    [Geolokalizacja oraz interaktywne wykorzystanie *Google Maps*. *Leaflet Provider* w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
@@ -43,7 +48,6 @@
    [Wykorzystanie kontenerów *Docker* w laboratoriach II](https://github.com/dmatulewski/mgr)
 1. Zawodny Paweł.
 
-----
 
 *UWAGI:*
 
