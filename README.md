@@ -24,8 +24,6 @@
    [Przyśpieszanie aplikacji webowych w *Service-Oriented Architecture*](https://github.com/Necromos/mgr)
 1. Lewandowska Marta.<br>
    [Automatyzacja testów aplikacji webowych w modelu *Scrum*](https://github.com/mlewandowska/thesis)
-1. Motławski Mateusz.<br>
-   [Zastosowanie elementów *Polymer UI* w aplikacjach *Meteor*](https://github.com/miotla007/magisterka)
 1. Sott Tomasz.<br>
    [Budowa i zastosowanie pakietu do automatyzacji powiadomień przez email i portal *fb.com* we frameworku *Meteor*](https://github.com/tsott/mgr)
 
@@ -40,13 +38,14 @@
    [Walidacja w aplikacjach *Meteor*](https://github.com/Flover/praca_magisterska)
 1. Matulewski Damian.<br>
    [Wykorzystanie kontenerów *Docker* w laboratoriach Instytutu Informatyki](https://github.com/dmatulewski/mgr)
+1. Motławski Mateusz.<br>
+   [Zastosowanie elementów *Polymer UI* w aplikacjach *Meteor*](https://github.com/miotla007/magisterka)
 
 
-## *NA*
+## Program naprawczy
 
-1. Detlaf Krzysztof.<br>
-   [*Leaflet Provider* w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka)
-1. Zawodny Paweł.
+1. [Detlaf Krzysztof](https://github.com/kdetlaf/magisterka).
+   - [Technologiczne możliwości współczesnej geolokalizacji wykorzystywane w sporcie ekstremalnym](/) – prezentacja
 
 
 *UWAGI:*
