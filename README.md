@@ -146,8 +146,19 @@ D. frameworka *Meteor*
 1. *AngularJS*, *Node.js*, *Meteor* itd piszemy kursywą.
 Są to nazwy własne pochodzące z języka angielskiego.
 
+#### Bibliografia
 
-#### Elementy pracy magisterskiej
+1\. „Junior” po nazwisku.
+Na stronie [Rady Języka Polskiego](http://www.rjp.pan.pl/index.php?option=com_content&view=article&id=807:junior-po-nazwisku-&catid=76:opinie-o-imionach&Itemid=58)
+jest wyjaśnione, że w Polsce np. na wizytówce zapisze się
+Adam XXX jun. albo Adam XXX jr (uwaga: jr bez kropki na końcu),
+a w USA – Adam XXX Jr.  (duże J i kropka na końcu).
+
+W naszych bibliografiach będzie zawsze Jr.
+Do tej pory nie widziałem na polskich stronach autora juniora :bowtie:
+
+
+## Elementy pracy magisterskiej
 
 Opracowano na podstawie [Praca Magisterska – Internetowy Poradnik](http://www.pracamagisterska.net/poradnik).
 
@@ -171,15 +182,3 @@ Opracowano na podstawie [Praca Magisterska – Internetowy Poradnik](http://www.
 * powinno przedstawiać ogólne uwarunkowania problemu oraz **opisać go w kontekście**
 * powinno zawierać powód dlaczego poruszyło się taki temat
 * należy odnieść się do dorobku innych
-
-
-#### Bibliografia
-
-1\. „Junior” po nazwisku.
-Na stronie [Rady Języka Polskiego](http://www.rjp.pan.pl/index.php?option=com_content&view=article&id=807:junior-po-nazwisku-&catid=76:opinie-o-imionach&Itemid=58)
-jest wyjaśnione, że w Polsce np. na wizytówce zapisze się
-Adam XXX jun. albo Adam XXX jr (uwaga: jr bez kropki na końcu),
-a w USA – Adam XXX Jr.  (duże J i kropka na końcu).
-
-W naszych bibliografiach będzie zawsze Jr.
-Do tej pory nie widziałem na polskich stronach autora juniora :bowtie:
