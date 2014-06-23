@@ -164,21 +164,21 @@ Opracowano na podstawie [Praca Magisterska – Internetowy Poradnik](http://www.
 
 [Tytuł](http://www.pracamagisterska.net/tytul):
 
-* musi precyzyjnie określać to, co znajduje się w pracy magisterskiej
-* w tytule unikamy pojęć wieloznacznych
-* nie powinien być zbyt ogólny
+1. musi precyzyjnie określać to, co znajduje się w pracy magisterskiej
+1. w tytule unikamy pojęć wieloznacznych
+1. nie powinien być zbyt ogólny
 
 [Streszczenie](http://www.pracamagisterska.net/streszczenie) (0,5 strony):
 
-* powinno zawierać omówienie głównych tez pracy magisterskiej,
+1. powinno zawierać omówienie głównych tez pracy magisterskiej,
   celów jakie autor sobie postawił
-* powinno zawierać informację czy udało się je zrealizować
-* należy także napisać jakimi metodami, technologiami się posłużono
+1. powinno zawierać informację czy udało się je zrealizować
+1. należy także napisać jakimi metodami, technologiami się posłużono
   i jakie to przyniosło efekty
 
 [Wprowadzenie/Wstęp](http://www.pracamagisterska.net/wstep) (2–3 strony):
 
-* jak nazwa wskazuje, ma wprowadzać w obszar problemowy pracy
-* powinno przedstawiać ogólne uwarunkowania problemu oraz **opisać go w kontekście**
-* powinno zawierać powód dlaczego poruszyło się taki temat
-* należy odnieść się do dorobku innych
+1. jak nazwa wskazuje, ma wprowadzać w obszar problemowy pracy
+1. powinno przedstawiać ogólne uwarunkowania problemu oraz **opisać go w kontekście**
+1. powinno zawierać powód dlaczego poruszyło się taki temat
+1. należy odnieść się do dorobku innych
