@@ -46,7 +46,7 @@
 
 1. [Detlaf Krzysztof](https://github.com/kdetlaf/magisterka).
    - [Technologiczne możliwości współczesnej geolokalizacji wykorzystywane w sporcie ekstremalnym](/) – prezentacja
-
+   (termin oddania 28.06.2014)
 
 *UWAGI:*
 
