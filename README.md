@@ -147,14 +147,26 @@ D. frameworka *Meteor*
 Są to nazwy własne pochodzące z języka angielskiego.
 
 
-#### Streszczenie a wprowadzenie
+#### Elementy pracy magisterskiej
 
-Streszczenie:
-* zawiera omówienie głównych tez pracy
-* powinno przedstawiać cele jakie pragnął osiągnąć autor
-* powinno także zawierać informację czy udało się je osiągnąć
+Opracowano na podstawie [Praca Magisterska – Internetowy Poradnik](http://www.pracamagisterska.net/poradnik).
 
-Wprowadzenie:
+[Tytuł](http://www.pracamagisterska.net/tytul):
+
+* musi precyzyjnie określać to, co znajduje się w pracy magisterskiej
+* w tytule unikamy pojęć wieloznacznych
+* nie powinien być zbyt ogólny
+
+[Streszczenie](http://www.pracamagisterska.net/streszczenie) (0,5 strony):
+
+* powinno zawierać omówienie głównych tez pracy magisterskiej,
+  celów jakie autor sobie postawił
+* powinno zawierać informację czy udało się je zrealizować
+* należy także napisać jakimi metodami, technologiami się posłużono
+  i jakie to przyniosło efekty
+
+[Wprowadzenie/Wstęp](http://www.pracamagisterska.net/wstep) (2–3 strony):
+
 * jak nazwa wskazuje, ma wprowadzać w obszar problemowy pracy
 * powinno przedstawiać ogólne uwarunkowania problemu oraz **opisać go w kontekście**
 * powinno zawierać powód dlaczego poruszyło się taki temat
