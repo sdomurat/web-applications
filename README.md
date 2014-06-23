@@ -42,7 +42,7 @@
    [Zastosowanie elementów *Polymer UI* w aplikacjach *Meteor*](https://github.com/miotla007/magisterka)
 
 
-## Program naprawczy
+## Dodatkowa szansa
 
 1. [Detlaf Krzysztof](https://github.com/kdetlaf/magisterka).
    - [Technologiczne możliwości współczesnej geolokalizacji wykorzystywane w sporcie ekstremalnym](/) – prezentacja
