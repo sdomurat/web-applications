@@ -30,7 +30,9 @@
 
 ## Poprawka
 
-**Deadline na rzeczy wymienione w [#issue 54](https://github.com/seminarium/web-applications/issues/54): 24.08.2014**
+**Deadline na rzeczy wymienione w [issue 54](https://github.com/seminarium/web-applications/issues/54)
+oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
+24.08.2014**
 
 1. Domurat Szymon.<br>
    [Technologie budowania aplikacji proponującej wydarzenia opartej o platformę *Node.js*](https://github.com/sdomurat/mgr)
