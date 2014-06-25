@@ -66,6 +66,13 @@
 [kilka najważniejszych pozycji bibliograficznych z pracy]
 ```
 
+
+### Referaty, 2014/15
+
+* Tim Bray.
+  [Public-Speaking Antipatterns](http://www.tbray.org/ongoing/When/201x/2012/06/07/Speaking-Antipatterns)
+
+
 ### 2014 → ∞
 
 - [ES.next showcase](https://github.com/sindresorhus/esnext-showcase)
