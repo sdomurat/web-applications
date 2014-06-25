@@ -192,7 +192,7 @@ Opracowano na podstawie [Praca Magisterska – Internetowy Poradnik](http://www.
 1. należy także napisać jakimi metodami, technologiami się posłużono
   i jakie to przyniosło efekty
 
-[Wprowadzenie/Wstęp](http://www.pracamagisterska.net/wstep) (2–3 strony):
+[Wprowadzenie/Wstęp](http://www.pracamagisterska.net/wstep) (2-3 strony):
 
 1. jak nazwa wskazuje, ma wprowadzać w obszar problemowy pracy
 1. powinno przedstawiać ogólne uwarunkowania problemu oraz **opisać go w kontekście**
