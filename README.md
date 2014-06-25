@@ -200,8 +200,9 @@ Opracowano na podstawie [Praca Magisterska – Internetowy Poradnik](http://www.
 1. należy odnieść się do dorobku innych
 
 
-## [English Lessons](https://www.youtube.com/channel/UCVUKh5KMGJFOw7WDGnS6bLw)
+## English Lessons
 
+* [Writing paragraphs that make sense—the topic and the stress position](http://serialmentor.com/blog/2013/9/26/writing-paragraphs-that-make-sensethe-topic-and-the-stress-position)
 * [Flow](https://www.youtube.com/watch?v=e9V1tiGChzc)
 * [Writing - Transitions - in addition, moreover, furthermore…](https://www.youtube.com/watch?v=IsDR3XEv50E)
 * [The Paragraphs](https://www.youtube.com/watch?v=0IFDuhdB2Hk)
