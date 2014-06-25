@@ -203,4 +203,5 @@ Opracowano na podstawie [Praca Magisterska – Internetowy Poradnik](http://www.
 ## [English Lessons](https://www.youtube.com/channel/UCVUKh5KMGJFOw7WDGnS6bLw)
 
 * [Flow](https://www.youtube.com/watch?v=e9V1tiGChzc)
+* [Writing - Transitions - in addition, moreover, furthermore…](https://www.youtube.com/watch?v=IsDR3XEv50E)
 * [The Paragraphs](https://www.youtube.com/watch?v=0IFDuhdB2Hk)
