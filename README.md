@@ -11,6 +11,8 @@
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
 > — David Ogilvy
 
+1. Królik Przemysław.<br>
+   [Przyśpieszanie aplikacji webowych w *Service-Oriented Architecture*](https://github.com/Necromos/mgr)
 1. Małecki Maciej.<br>
    [Budowanie wydajnych i skalowalnych aplikacji webowych](https://github.com/smt116/master-thesis)
 1. Motel Mateusz.<br>
@@ -22,8 +24,6 @@
 
 ----
 
-1. Królik Przemysław.<br>
-   [Przyśpieszanie aplikacji webowych w *Service-Oriented Architecture*](https://github.com/Necromos/mgr)
 1. Lewandowska Marta.<br>
    [Automatyzacja testów aplikacji webowych w modelu *Scrum*](https://github.com/mlewandowska/thesis)
 
