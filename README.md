@@ -43,8 +43,8 @@ oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
 
 #### Poczekalnia do poprawki
 
-1. [Detlaf Krzysztof](https://github.com/kdetlaf/magisterka).
-   - [Technologiczne możliwości współczesnej geolokalizacji, które można wykorzystać w sporcie ekstremalnym](/) – prezentacja
+1. [Detlaf Krzysztof].<br>
+   - [Technologiczne możliwości współczesnej geolokalizacji, które można wykorzystać w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka) – [prezentacja](http://slides.com/krzysiu7/technologiczne-mozliwosci-wspolczesnej-geolokalizacji-wykorzystywane-w-sporcie-ekstremalnym)
    (termin oddania 28.06.2014)
 
 *UWAGI:*
