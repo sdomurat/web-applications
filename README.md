@@ -69,7 +69,7 @@
 
 ### Referaty, 2014/15
 
-> **Agendas** ·
+> **Agendas** · Ditch your agenda!
 > The first few seconds of your talk are a golden opportunity to grab
 > the audience’s attention and make it memorable.<br>
 > **Death to Bullet Lists** ·
