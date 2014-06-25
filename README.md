@@ -17,6 +17,8 @@
    [Technika *oplog tailing* w aplikacjach *Meteor*](https://github.com/mmotel/master-thesis)
 1. Plichta Oskar.<br>
    [Tworzenie przyjaznego interfejsu użytkownika w aplikacjach do udostępniania fotografii](https://github.com/oplichta/magisterka)
+1. Sott Tomasz.<br>
+   [Budowa i zastosowanie pakietu do automatyzacji powiadomień przez email i portal *fb.com* we frameworku *Meteor*](https://github.com/tsott/mgr)
 
 ----
 
@@ -24,8 +26,6 @@
    [Przyśpieszanie aplikacji webowych w *Service-Oriented Architecture*](https://github.com/Necromos/mgr)
 1. Lewandowska Marta.<br>
    [Automatyzacja testów aplikacji webowych w modelu *Scrum*](https://github.com/mlewandowska/thesis)
-1. Sott Tomasz.<br>
-   [Budowa i zastosowanie pakietu do automatyzacji powiadomień przez email i portal *fb.com* we frameworku *Meteor*](https://github.com/tsott/mgr)
 
 
 ## Poprawka
