@@ -198,3 +198,9 @@ Opracowano na podstawie [Praca Magisterska – Internetowy Poradnik](http://www.
 1. powinno przedstawiać ogólne uwarunkowania problemu oraz **opisać go w kontekście**
 1. powinno zawierać powód dlaczego poruszyło się taki temat
 1. należy odnieść się do dorobku innych
+
+
+## [English Lessons](https://www.youtube.com/channel/UCVUKh5KMGJFOw7WDGnS6bLw)
+
+* [Flow](https://www.youtube.com/watch?v=e9V1tiGChzc)
+* [The Paragraphs](https://www.youtube.com/watch?v=0IFDuhdB2Hk)
