@@ -71,8 +71,8 @@
 
 > **Agendas** ·
 > The first few seconds of your talk are a golden opportunity to grab
-> the audience’s attention and make it memorable.
-> **Death to Bullet Lists* ·
+> the audience’s attention and make it memorable.<br>
+> **Death to Bullet Lists** ·
 > Few things are more boring than an engineer reading words out of lists
 > to a room full of people, all of whom can read.
 
