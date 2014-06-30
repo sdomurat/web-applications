@@ -109,7 +109,7 @@ oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
 > slightly the wrong thing** – not much, but enough that they miss fame.<br>
 > — Richard Hamming. [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html)
 
-## Ważne rzeczy
+### Do przeczytania
 
 1. Michael Nielsen.
    [Reinventing explanation](http://michaelnielsen.org/reinventing_explanation/index.html).
