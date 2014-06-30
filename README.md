@@ -161,8 +161,8 @@ W dawnych czasach, kiedy nie było kursywy pisano tak:<br>
 Teraz piszemy tylko tak:<br>
     wbudowana klasa *InternetAddress*
 1. W przypadku długich nazw w języku angielskim, takich jak *Service
-Oriented Architecture*, nazwę należy przetłumaczyć w przypisie
-dolnym. Można w nim zapisać skrót od nazwy (w tym wypadku SOA) i w
+Oriented Architecture*, nazwę należy przetłumaczyć w przypisie
+dolnym. Można w nim zapisać skrót od nazwy (w tym wypadku SOA) i w
 dalszej części pracy posługiwać się już tylko skrótem.
 1. Odmieniając wyrazy pochodzące z innego języka niż polski które
 kończą się na niewymawianą literę piszemy z apostrofem. Dla
