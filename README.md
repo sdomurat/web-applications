@@ -139,7 +139,12 @@ w tekście ciągłym, natomiast w tytułach książek
 i ich rozdziałów winny być przenoszone do następnego wiersza.
 
 1. [Kreski poziome](http://www.ekorekta24.pl/aktualnosci-jezykowe/16-opracowanie-tekstu/122-myslnik-pauza-polpauza-i-dywiz-lacznik-czym-sie-roznia-i-jak-je-stosowac):
-łącznik i dywiz (-), półpauza (–), pauza (—).
+łącznik i dywiz (-), półpauza (–), pauza (—). Przykłady użycia:
+pauza — to najdłuższa kreska w typografii,
+półpauza – to „pół” pauzy,
+lata 2009–2010, s. 1–3, t. I–II,
+biało-czerwony, czary-mary, Gdańsk-Osowa.
+
 1. Polskie cudzysłowy:
 „Mam nadzieję, że właśnie ta praca magisterska jest »wyjątkowa«”.
 
