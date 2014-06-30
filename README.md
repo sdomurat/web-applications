@@ -128,8 +128,11 @@ oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
 
 * [Wielki słownik ortograficzny PWN online](http://so.pwn.pl/)
 
-#### Język polski
+#### Język polski (typografia)
 
+1. [Wiszące spójniki](http://pl.wikipedia.org/wiki/Wisz%C4%85cy_sp%C3%B3jnik) –
+nazwa błędu składu tekstu polegającego na pozostawieniu na końcu wersu osamotnionego
+spójnika lub przyimka, na przykład *a*, *i*, *o*, *u*, *w*, *z*.
 1. [Kreski poziome](http://www.ekorekta24.pl/aktualnosci-jezykowe/16-opracowanie-tekstu/122-myslnik-pauza-polpauza-i-dywiz-lacznik-czym-sie-roznia-i-jak-je-stosowac):
 łącznik i dywiz (-), półpauza (–), pauza (—).
 1. Polskie cudzysłowy:
