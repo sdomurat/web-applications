@@ -132,9 +132,14 @@ oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
 
 1. [Wiszące spójniki](http://pl.wikipedia.org/wiki/Wisz%C4%85cy_sp%C3%B3jnik) –
 nazwa błędu składu tekstu polegającego na pozostawieniu na końcu wersu osamotnionego
-spójnika lub przyimka, na przykład *a*, *i*, *o*, *u*, *w*, *z*.
+spójnika lub przyimka, na przykład *a*, *i*, *o*, *u*, *w*, *z*.<br>
+[Wielki słownik ortograficzny](http://so.pwn.pl/zasady.php?id=629563):
+Jednoliterowe spójniki i przyimki (a, i, u, w itd.) mogą pozostawać na końcu wiersza
+w tekście ciągłym, natomiast w tytułach książek
+i ich rozdziałów winny być przenoszone do następnego wiersza.
+
 1. [Kreski poziome](http://www.ekorekta24.pl/aktualnosci-jezykowe/16-opracowanie-tekstu/122-myslnik-pauza-polpauza-i-dywiz-lacznik-czym-sie-roznia-i-jak-je-stosowac):
-łącznik i dywiz (-), półpauza (–), pauza (—).
+łącznik i dywiz (-), półpauza (–), pauza (—).
 1. Polskie cudzysłowy:
 „Mam nadzieję, że właśnie ta praca magisterska jest »wyjątkowa«”.
 
