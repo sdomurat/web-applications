@@ -128,12 +128,24 @@ oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
 
 * [Wielki słownik ortograficzny PWN online](http://so.pwn.pl/)
 
+#### Język polski
+
+1. [Kreski poziome](http://www.ekorekta24.pl/aktualnosci-jezykowe/16-opracowanie-tekstu/122-myslnik-pauza-polpauza-i-dywiz-lacznik-czym-sie-roznia-i-jak-je-stosowac):
+łącznik i dywiz (-), półpauza (–), pauza (—).
+1. Polskie cudzysłowy:
+„Mam nadzieję, że właśnie ta praca magisterska jest »wyjątkowa«”.
+
+<!--
+  To zdanie można zapisać też tak:
+  „Mam nadzieję, że właśnie ta praca magisterska jest *wyjątkowa*”.
+-->
+
 #### Język angielski
 
 1. Nazwy pochodzące z języka angielskiego piszemy kursywą.<br>
 W dawnych czasach, kiedy nie było kursywy pisano:<br>
     wbudowana klasa „InternetAddress”<br>
-teraz piszemy:<br> 
+teraz piszemy:<br>
     wbudowana klasa *InternetAddress*
 1. W przypadku długich nazw w języku angielskim, takich jak *Service
 Oriented Architecture*, nazwę należy przetłumaczyć w przypisie
