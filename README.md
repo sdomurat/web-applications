@@ -132,7 +132,7 @@ oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
 
 1. Nazwy pochodzące z języka angielskiego piszemy kursywą.<br>
 W dawnych czasach, kiedy nie było kursywy pisano:<br>
-    wbudowana klasa „InternetAddress”
+    wbudowana klasa „InternetAddress”<br>
 teraz piszemy:<br> 
     wbudowana klasa *InternetAddress*
 1. W przypadku długich nazw w języku angielskim, takich jak *Service
