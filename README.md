@@ -115,7 +115,7 @@ oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
    [Reinventing explanation](http://michaelnielsen.org/reinventing_explanation/index.html).
 1. [Creativity is not a team sport](http://www.improvides.com/2014/03/24/creativity-team-sport-interview-vincent-walsh-prof-neuroscience-ucl/)
    – Vincent Walsh, Prof. Neuroscience UCL (interview).
-1. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/).
+1. [Emoji Cheat Sheet](http://www.emoji-cheat-sheet.com/) :heart_eyes:, :ok_hand:, :beetle:, :gem:
 
 
 ## Nasza poradnia językowa…
