@@ -143,9 +143,9 @@ oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
 #### Język angielski
 
 1. Nazwy pochodzące z języka angielskiego piszemy kursywą.<br>
-W dawnych czasach, kiedy nie było kursywy pisano:<br>
+W dawnych czasach, kiedy nie było kursywy pisano tak:<br>
     wbudowana klasa „InternetAddress”<br>
-teraz piszemy:<br>
+Teraz piszemy tylko tak:<br>
     wbudowana klasa *InternetAddress*
 1. W przypadku długich nazw w języku angielskim, takich jak *Service
 Oriented Architecture*, nazwę należy przetłumaczyć w przypisie
