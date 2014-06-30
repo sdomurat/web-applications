@@ -123,7 +123,7 @@ oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
 … i na wszelki wypadek:
 
 * Telefoniczna Poradnia Językowa UG: 58 523-20-25, dni powszednie
-  w godz. 13.00-14.30. Wydział Filologiczny UG, Gdańsk Oliwia, ul. Wita
+  w godz. 13.00–14.30. Wydział Filologiczny UG, Gdańsk Oliwia, ul. Wita
   Stwosza 55, pok. nr 3.52.
 
 * [Wielki słownik ortograficzny PWN online](http://so.pwn.pl/)
