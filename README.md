@@ -29,6 +29,8 @@
 
 1. [Here’s the difference between Polymer and Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/)
 1. [Website Performance Optimization – The Critical Rendering Path](https://www.udacity.com/course/ud884) – Udacity
+1. [You do not know JavaScript](https://github.com/getify/You-Dont-Know-JS) –
+[O’Reilly JavaScript book series](http://shop.oreilly.com/product/0636920026327.do) i in.
 1. [Simple is better – Making your web forms easy to use pays off](http://googleresearch.blogspot.com/2014/07/simple-is-better-making-your-web-forms.html)
 
 
