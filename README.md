@@ -33,6 +33,10 @@
 [O’Reilly JavaScript book series](http://shop.oreilly.com/product/0636920026327.do) i in.
 1. [Simple is better – Making your web forms easy to use pays off](http://googleresearch.blogspot.com/2014/07/simple-is-better-making-your-web-forms.html)
 
+MongoDB:
+
+* Tutorial: [Scaling Meteor with MongoDB oplog tailing](http://blog.mongolab.com/2014/07/tutorial-scaling-meteor-with-mongodb-oplog-tailing/)
+
 
 ## Poprawka
 
