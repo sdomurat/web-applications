@@ -35,7 +35,12 @@
 
 MongoDB:
 
+* David Turnbull. [Your First Meteor Application](https://leanpub.com/meteortutorial/read)
 * Tutorial: [Scaling Meteor with MongoDB oplog tailing](http://blog.mongolab.com/2014/07/tutorial-scaling-meteor-with-mongodb-oplog-tailing/)
+
+Docker:
+
+* James Turnbull. [The Docker Book](http://www.dockerbook.com/).
 
 
 ## Poprawka
