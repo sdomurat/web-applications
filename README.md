@@ -50,7 +50,7 @@ oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
 24.08.2014**
 
 1. Domurat Szymon.<br>
-   [Technologie budowania aplikacji proponującej wydarzenia opartej o platformę *Node.js*](https://github.com/sdomurat/mgr)
+   [Budowa *gemu* z gotowymi metaszablonami do aplikacji *Rails* wykorzystujący bibliotekę *AngularJS*](https://github.com/sdomurat/mgr)
 1. Kwiatkowski Mateusz.<br>
    [Walidacja w elektronicznym systemie zarządzania osiągnięciami studenta](https://github.com/Flover/praca_magisterska)
 1. Matulewski Damian.<br>
