@@ -52,7 +52,7 @@ oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
 1. Domurat Szymon.<br>
    [Technologie budowania aplikacji proponującej wydarzenia opartej o platformę *Node.js*](https://github.com/sdomurat/mgr)
 1. Kwiatkowski Mateusz.<br>
-   [Walidacja w aplikacjach *Meteor*](https://github.com/Flover/praca_magisterska)
+   [Walidacja w elektronicznym systemie zarządzania osiągnięciami studenta](https://github.com/Flover/praca_magisterska)
 1. Matulewski Damian.<br>
    [Wykorzystanie kontenerów *Docker* w laboratoriach Instytutu Informatyki](https://github.com/dmatulewski/mgr)
 1. Motławski Mateusz.<br>
