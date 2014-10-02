@@ -11,8 +11,6 @@
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
 > — David Ogilvy
 
-1. Królik Przemysław.<br>
-   [Przyśpieszanie aplikacji webowych w *Service-Oriented Architecture*](https://github.com/Necromos/mgr)
 1. Lewandowska Marta.<br>
    [Automatyzacja testów aplikacji webowych w modelu *Scrum*](https://github.com/mlewandowska/thesis)
 1. Małecki Maciej.<br>
@@ -23,32 +21,6 @@
    [Tworzenie przyjaznego interfejsu użytkownika w aplikacjach do udostępniania fotografii](https://github.com/oplichta/magisterka)
 1. Sott Tomasz.<br>
    [Budowa i zastosowanie pakietu do automatyzacji powiadomień przez email i portal *fb.com* we frameworku *Meteor*](https://github.com/tsott/mgr)
-
-
-## Literatura
-
-1. [Here’s the difference between Polymer and Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/)
-1. [Website Performance Optimization – The Critical Rendering Path](https://www.udacity.com/course/ud884) – Udacity
-1. [You do not know JavaScript](https://github.com/getify/You-Dont-Know-JS) –
-[O’Reilly JavaScript book series](http://shop.oreilly.com/product/0636920026327.do) i in.
-1. [Simple is better – Making your web forms easy to use pays off](http://googleresearch.blogspot.com/2014/07/simple-is-better-making-your-web-forms.html)
-
-MongoDB:
-
-* David Turnbull. [Your First Meteor Application](https://leanpub.com/meteortutorial/read)
-* Tutorial: [Scaling Meteor with MongoDB oplog tailing](http://blog.mongolab.com/2014/07/tutorial-scaling-meteor-with-mongodb-oplog-tailing/)
-
-Docker:
-
-* James Turnbull. [The Docker Book](http://www.dockerbook.com/).
-
-
-## Poprawka
-
-**Deadline na rzeczy wymienione w [issue 54](https://github.com/seminarium/web-applications/issues/54)
-oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
-24.08.2014**
-
 1. Domurat Szymon.<br>
    [Budowa *gemu* z gotowymi metaszablonami do aplikacji *Rails* wykorzystujący bibliotekę *AngularJS*](https://github.com/sdomurat/mgr)
 1. Kwiatkowski Mateusz.<br>
@@ -57,57 +29,6 @@ oraz w [issue 64](https://github.com/seminarium/web-applications/issues/64):
    [Wykorzystanie kontenerów *Docker* w laboratoriach Instytutu Informatyki](https://github.com/dmatulewski/mgr)
 1. Motławski Mateusz.<br>
    [Zastosowanie elementów *Polymer UI* w aplikacjach *Meteor*](https://github.com/miotla007/magisterka)
-
-
-#### Poczekalnia do poprawki
-
-1. [Detlaf Krzysztof].<br>
-   - [Technologiczne możliwości współczesnej geolokalizacji, które można wykorzystać w sporcie ekstremalnym](https://github.com/kdetlaf/magisterka) – [prezentacja](http://slides.com/krzysiu7/technologiczne-mozliwosci-wspolczesnej-geolokalizacji-wykorzystywane-w-sporcie-ekstremalnym)
-   (termin oddania 28.06.2014)
-
-*UWAGI:*
-
-1. Repozytoria z pracami mgr powinny być prywatne.
-1. W pliku *README.md* wpisujemy:
-
-```
-### Tytuł pracy
-#### *Imię i nazwisko autora*
-
-* [link do aktualnego PDF-a z treścią pracy mgr](link)
-
-[zmieniamy notację na Markdown i wklejamy *Wprowadzenie* z pracy]
-
-#### Bibliografia
-
-[kilka najważniejszych pozycji bibliograficznych z pracy]
-```
-
-
-### Referaty, 2014/15
-
-> **Agendas** · Ditch your agenda!
-> The first few seconds of your talk are a golden opportunity to grab
-> the audience’s attention and make it memorable.<br>
-> **Death to Bullet Lists** ·
-> Few things are more boring than an engineer reading words out of lists
-> to a room full of people, all of whom can read.
-
-* Tim Bray.
-  [Public-Speaking Antipatterns](http://www.tbray.org/ongoing/When/201x/2012/06/07/Speaking-Antipatterns)
-
-
-### 2014 → ∞
-
-- [ES.next showcase](https://github.com/sindresorhus/esnext-showcase)
-  - [JavaScript Promises ... In Wicked Detail](http://mattgreer.org/articles/promises-in-wicked-detail/)
-- [Web Components](http://w3c.github.io/webcomponents/explainer/) –
-  [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/)
-  by Addy Osmani
-- [Docker](http://www.docker.com/) –  Build, Ship and Run Any App, Anywhere
-- [Meteor](https://www.meteor.com/):
-  [Discover Meteor](http://book.discovermeteor.com/)
-  ([polskie tłumaczenie](http://pl.discovermeteor.com/))
 
 
 > Another trait, it took me a while to notice. I noticed the following

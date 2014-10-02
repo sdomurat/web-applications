@@ -99,3 +99,67 @@ Seminarium odwołane.
 1. Motławski Mateusz. [Polymer](http://slides.com/miotla007/polymer)
 1. Zawodny Paweł.
 1. Krzysztof Detlaf.
+
+
+<!--
+
+*UWAGI:*
+
+1. Repozytoria z pracami mgr powinny być prywatne.
+1. W pliku *README.md* wpisujemy:
+
+```
+### Tytuł pracy
+#### *Imię i nazwisko autora*
+
+* [link do aktualnego PDF-a z treścią pracy mgr](link)
+
+[zmieniamy notację na Markdown i wklejamy *Wprowadzenie* z pracy]
+
+#### Bibliografia
+
+[kilka najważniejszych pozycji bibliograficznych z pracy]
+```
+
+
+### Referaty, 2014/15
+
+> **Agendas** · Ditch your agenda!
+> The first few seconds of your talk are a golden opportunity to grab
+> the audience’s attention and make it memorable.<br>
+> **Death to Bullet Lists** ·
+> Few things are more boring than an engineer reading words out of lists
+> to a room full of people, all of whom can read.
+
+* Tim Bray.
+  [Public-Speaking Antipatterns](http://www.tbray.org/ongoing/When/201x/2012/06/07/Speaking-Antipatterns)
+
+
+### 2014 → ∞
+
+- [ES.next showcase](https://github.com/sindresorhus/esnext-showcase)
+  - [JavaScript Promises ... In Wicked Detail](http://mattgreer.org/articles/promises-in-wicked-detail/)
+- [Web Components](http://w3c.github.io/webcomponents/explainer/) –
+  [The Web’s Declarative, Composable Future](http://addyosmani.com/blog/the-webs-declarative-composable-future/)
+  by Addy Osmani
+- [Docker](http://www.docker.com/) –  Build, Ship and Run Any App, Anywhere
+- [Meteor](https://www.meteor.com/):
+  [Discover Meteor](http://book.discovermeteor.com/)
+  ([polskie tłumaczenie](http://pl.discovermeteor.com/))
+
+## Literatura
+
+1. [Here’s the difference between Polymer and Angular](http://www.binpress.com/blog/2014/06/26/polymer-vs-angular/)
+1. [Website Performance Optimization – The Critical Rendering Path](https://www.udacity.com/course/ud884) – Udacity
+1. [You do not know JavaScript](https://github.com/getify/You-Dont-Know-JS) –
+[O’Reilly JavaScript book series](http://shop.oreilly.com/product/0636920026327.do) i in.
+1. [Simple is better – Making your web forms easy to use pays off](http://googleresearch.blogspot.com/2014/07/simple-is-better-making-your-web-forms.html)
+
+MongoDB:
+
+* David Turnbull. [Your First Meteor Application](https://leanpub.com/meteortutorial/read)
+* Tutorial: [Scaling Meteor with MongoDB oplog tailing](http://blog.mongolab.com/2014/07/tutorial-scaling-meteor-with-mongodb-oplog-tailing/)
+
+Docker:
+
+* James Turnbull. [The Docker Book](http://www.dockerbook.com/).
