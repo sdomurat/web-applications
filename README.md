@@ -5,6 +5,13 @@
 > the manner in which the problems at hand are solved by program execution.<br>
 > [*Peter Naur*](http://alistair.cockburn.us/ASD+book+extract%3A+%22Naur,+Ehn,+Musashi%22)
 
+**Terminarz:**
+
+* [9.10, czwartek, g. 10:00] M. Małecki, N. Motel
+* [10.10, piątek, g. 16:00] T. Sott
+* [16.10, czwartek, g. 10:00]  M. Kwiatkowski
+
+
 ## Aplikacje Webowe 2
 
 > On the average, five times as many people read the headline as read the body copy.<br>
