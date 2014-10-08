@@ -90,8 +90,8 @@ Sott Tomasz. [Porównanie pakietów…](https://github.com/tsott/mgr)
 - [Meteor Is Just A Toy](http://www.screamingatmyscreen.com/2012/4/meteor-is-just-a-toy/)
 
 
-Zawodny Paweł.
-- …
-- …
-- …
-- …
+Zawodny Paweł. [Portal społecznościowy na potrzeby środowiska alpinistów i wspinaczy wysokogórskich](https://github.com/pawelzawodny/Praca-Magisterska)
+- [Michael Hartl, Aurelius Prochazka: RailsSpace: Building a Social Networking Website with Ruby on Rails. Addison-Wesley Professional, 2007. ISBN 0321480791.]
+- [Jonathan Strickland, How to Start a Social Networking Site, [dostęp 25.09.14]](http://computer.howstuffworks.com/internet/social-networking/information/start-social-networking-site.htm)
+
+- [Hendrickson, Mark. Nine Ways to Build Your Own Social Network. TechCrunch. 24.06.2007.](http://www.techcrunch.com/2007/07/24/9-ways-to-build-your-own-social-network/)
