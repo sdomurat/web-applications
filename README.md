@@ -36,6 +36,8 @@
    [Wykorzystanie kontenerów *Docker* w laboratoriach Instytutu Informatyki](https://github.com/dmatulewski/mgr)
 1. Motławski Mateusz.<br>
    [Zastosowanie elementów *Polymer UI* w aplikacjach *Meteor*](https://github.com/miotla007/magisterka)
+1. Zawodny Paweł.
+   [Portal społecznościowy na potrzeby środowiska alpinistów i wspinaczy wysokogórskich](https://github.com/pawelzawodny/Praca-Magisterska)
 
 
 > Another trait, it took me a while to notice. I noticed the following
