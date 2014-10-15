@@ -9,7 +9,7 @@
 
 * [9.10, czwartek, g. 10:00] – M. Małecki, N. Motel
 * [10.10, piątek, g. 16:00] – T. Sott
-* [16.10, czwartek, g. 10:00] – M. Kwiatkowski
+* [16.10, czwartek, g. 9:45] – M. Kwiatkowski
 
 
 ## Aplikacje Webowe 2
