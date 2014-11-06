@@ -30,6 +30,7 @@
    [Budowa i zastosowanie pakietu do automatyzacji powiadomień przez email i portal *fb.com* we frameworku *Meteor*](https://github.com/tsott/mgr)
 1. Domurat Szymon.<br>
    [Budowa *gemu* z gotowymi metaszablonami do aplikacji *Rails* wykorzystujący bibliotekę *AngularJS*](https://github.com/sdomurat/mgr)
+  - [StringTemplate](http://www.stringtemplate.org/articles.html) – artykuły
 1. Kwiatkowski Mateusz.<br>
    [Walidacja w elektronicznym systemie zarządzania osiągnięciami studenta](https://github.com/Flover/praca_magisterska)
 1. Matulewski Damian.<br>
