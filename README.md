@@ -36,10 +36,11 @@
    [Walidacja w elektronicznym systemie zarządzania osiągnięciami studenta](https://github.com/Flover/praca_magisterska)
 1. Matulewski Damian.<br>
    [Wykorzystanie kontenerów *Docker* w laboratoriach Instytutu Informatyki](https://github.com/dmatulewski/mgr)
+  - [Is Docker ready for production? Feedbacks of a 2 weeks hands on](https://t37.net/is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html)
 1. Motławski Mateusz.<br>
    [Zastosowanie elementów *Polymer UI* w aplikacjach *Meteor*](https://github.com/miotla007/magisterka)
 1. Zawodny Paweł.
-   [Portal społecznościowy na potrzeby środowiska alpinistów i wspinaczy wysokogórskich](https://github.com/pawelzawodny/Praca-Magisterska)
+   [Portal społecznościowy na potrzeby środowiska alpinistów i wspinaczy wysokogórskich](https://github.com/pawelzawodny/Praca-Magisterska)
 
 
 > Another trait, it took me a while to notice. I noticed the following
