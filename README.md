@@ -38,7 +38,8 @@ TODO
    [Zastosowanie elementów *Polymer UI* w aplikacjach *Meteor*](https://github.com/miotla007/magisterka)
 1. Zawodny Paweł.
    [Portal społecznościowy na potrzeby środowiska alpinistów i wspinaczy wysokogórskich](https://github.com/pawelzawodny/Praca-Magisterska)
-
+1. Rybak Artur.
+   [Projektowanie wydajnego API na potrzeby aplikacji mobilnych](https://github.com/wedkarz/mgr)
 
 > Another trait, it took me a while to notice. I noticed the following
 > facts about people who work with the door open or the door closed. I
