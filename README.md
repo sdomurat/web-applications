@@ -30,7 +30,7 @@ TODO
    [Budowa *gemu* z gotowymi metaszablonami do aplikacji *Rails* wykorzystujący bibliotekę *AngularJS*](https://github.com/sdomurat/mgr)
   - [StringTemplate](http://www.stringtemplate.org/articles.html) – artykuły
 1. Kwiatkowski Mateusz.<br>
-   [Walidacja w elektronicznym systemie zarządzania osiągnięciami studenta](https://bitbucket.org/Flover/praca_magisterska/src)
+   [Walidacja w elektronicznym systemie zarządzania osiągnięciami studenta](https://github.com/Flover/praca_magisterska)
 1. Matulewski Damian.<br>
    [Wykorzystanie kontenerów *Docker* w laboratoriach Instytutu Informatyki](https://github.com/dmatulewski/mgr)
   - [Is Docker ready for production? Feedbacks of a 2 weeks hands on](https://t37.net/is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html)
