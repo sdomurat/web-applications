@@ -27,8 +27,7 @@ TODO
 1. Sott Tomasz.<br>
    [Budowa i zastosowanie pakietu do automatyzacji powiadomień przez email i portal *fb.com* we frameworku *Meteor*](https://github.com/tsott/mgr)
 1. Domurat Szymon.<br>
-   [Budowa *gemu* z gotowymi metaszablonami do aplikacji *Rails* wykorzystujący bibliotekę *AngularJS*](https://github.com/sdomurat/mgr)
-  - [StringTemplate](http://www.stringtemplate.org/articles.html) – artykuły
+   [Serwisy internetowe oparte o *Web Components*](https://github.com/sdomurat/mgr)
 1. Kwiatkowski Mateusz.<br>
    [Walidacja w elektronicznym systemie zarządzania osiągnięciami studenta](https://bitbucket.org/Flover/praca_magisterska/src)
 1. Matulewski Damian.<br>
