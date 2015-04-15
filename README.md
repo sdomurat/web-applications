@@ -17,6 +17,9 @@ or [Kent Beck](http://www.threeriversinstitute.org/blog/):
 1. Say what your solution achieves.
 1. Say what follows from your solution.
 
+Introduce the problem, and your idea, using **examples**
+and only then present the general case.
+
 
 ## Aplikacje Webowe 2
 
