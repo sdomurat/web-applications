@@ -29,7 +29,7 @@ TODO
 1. Domurat Szymon.<br>
    [Serwisy internetowe oparte o *Web Components*](https://github.com/sdomurat/mgr)
 1. Kwiatkowski Mateusz.<br>
-   [Walidacja w elektronicznym systemie zarządzania osiągnięciami studenta](https://bitbucket.org/Flover/praca_magisterska/src)
+   [Walidacja w elektronicznym systemie zarządzania osiągnięciami studenta](https://github.com/Flover/praca_magisterska)
 1. Matulewski Damian.<br>
    [Wykorzystanie kontenerów *Docker* w laboratoriach Instytutu Informatyki](https://github.com/dmatulewski/mgr)
   - [Is Docker ready for production? Feedbacks of a 2 weeks hands on](https://t37.net/is-docker-ready-for-production-feedbacks-of-a-2-weeks-hands-on.html)
