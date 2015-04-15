@@ -42,8 +42,10 @@ or
     [Telling your data’s story](http://radar.oreilly.com/2015/03/telling-your-datas-story.html)
 1. Plichta Oskar.<br>
    [Tworzenie przyjaznego interfejsu użytkownika w aplikacjach do udostępniania fotografii](https://github.com/oplichta/magisterka)
+   - [Shireframe](https://github.com/tsx/shireframe)
 1. Sott Tomasz.<br>
    [Budowa i zastosowanie pakietu do automatyzacji powiadomień przez email i portal *fb.com* we frameworku *Meteor*](https://github.com/tsott/mgr)
+   - [Shireframe](https://github.com/tsx/shireframe)  
 1. Domurat Szymon.<br>
    [Serwisy internetowe oparte o *Web Components*](https://github.com/sdomurat/mgr)
 1. Kwiatkowski Mateusz.<br>
