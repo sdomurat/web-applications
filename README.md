@@ -7,7 +7,7 @@
 1. Here is a problem.
 1. It’s an interesting and unsolved problem.
 1. ***Here is my idea***.
-1. My idea works: details, data.
+1. My idea works (provide evidence to support each claim).
 1. Here’s how my idea compares to other people’s approaches.
 
 or [Kent Beck](http://www.threeriversinstitute.org/blog/):
@@ -17,8 +17,11 @@ or [Kent Beck](http://www.threeriversinstitute.org/blog/):
 1. Say what your solution achieves.
 1. Say what follows from your solution.
 
-Introduce the problem, and your idea, using **examples**
-and only then present the general case.
+or
+
+1. Introduce the problem, and your idea, using **examples**
+   and only then present the general case.
+1. Conveying the intuition is primary, not secondary.
 
 
 ## Aplikacje Webowe 2
