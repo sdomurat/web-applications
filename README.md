@@ -3,6 +3,7 @@
 > [*Simon Peyton Jones*](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
 
 **Conveying the idea:**
+
 1. Here is a problem.
 1. It’s an interesting/unsolved problem.
 1. ***Here is my idea***.
