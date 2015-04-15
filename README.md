@@ -5,7 +5,7 @@
 **Conveying the idea**:
 
 1. Here is a problem.
-1. It’s an interesting/unsolved problem.
+1. It’s an interesting and unsolved problem.
 1. ***Here is my idea***.
 1. My idea works: details, data.
 1. Here’s how my idea compares to other people’s approaches.
