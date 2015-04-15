@@ -10,6 +10,13 @@
 1. My idea works: details, data.
 1. Here’s how my idea compares to other people’s approaches.
 
+or [Kent Beck](http://www.threeriversinstitute.org/blog/):
+
+1. State the problem
+1. Say why it’s an interesting problem
+1. Say what your solution achieves
+1. Say what follows from your solution
+
 
 ## Aplikacje Webowe 2
 
