@@ -2,6 +2,13 @@
 > no matter how weedy and insignificant it may seem to you.<br>
 > [*Simon Peyton Jones*](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
 
+**Conveying the idea:**
+1. Here is a problem.
+1. It’s an interesting/unsolved problem.
+1. ***Here is my idea***.
+1. My idea works (details, data).
+￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼1. ￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼￼Here’s how my idea compares to other people’s approaches.
+
 ## Aplikacje Webowe 2
 
 > On the average, five times as many people read the headline as read the body copy.<br>
