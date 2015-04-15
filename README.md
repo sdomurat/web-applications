@@ -1,12 +1,6 @@
-![Peter Naur](images/peter_naur.jpg)
-
-> […] it is concluded that the proper, primary aim of programming is,<br>
-> not to produce programs, but to have the programmers build theories of<br>
-> the manner in which the problems at hand are solved by program execution.<br>
-> [*Peter Naur*](http://alistair.cockburn.us/ASD+book+extract%3A+%22Naur,+Ehn,+Musashi%22)
-
-Lektura obowiązkowa:
-* Simon Peyton Jones, [How to write a good research paper](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
+> Write a paper, and give a talk, about any idea,<br>
+> no matter how weedy and insignificant it may seem to you.<br>
+> [*Simon Peyton Jones*](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
 
 ## Aplikacje Webowe 2
 
