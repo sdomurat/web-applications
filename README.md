@@ -5,10 +5,8 @@
 > the manner in which the problems at hand are solved by program execution.<br>
 > [*Peter Naur*](http://alistair.cockburn.us/ASD+book+extract%3A+%22Naur,+Ehn,+Musashi%22)
 
-**Terminarz:**
-
-TODO
-
+Lektura obowiązkowa:
+* Simon Peyton Jones, [How to write a good research paper](http://research.microsoft.com/en-us/um/people/simonpj/papers/giving-a-talk/writing-a-paper-slides.pdf)
 
 ## Aplikacje Webowe 2
 
