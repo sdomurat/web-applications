@@ -34,8 +34,12 @@ or
    [Automatyzacja testów aplikacji webowych w modelu *Scrum*](https://github.com/mlewandowska/thesis)
 1. Małecki Maciej.<br>
    [Budowanie wydajnych aplikacji webowych](https://github.com/smt116/master-thesis)
+   - Michael Freeman.
+     [Telling your data’s story](http://radar.oreilly.com/2015/03/telling-your-datas-story.html)
 1. Motel Mateusz.<br>
    [Technika *oplog tailing* w aplikacjach *Meteor*](https://github.com/mmotel/master-thesis)
+  - Michael Freeman.
+    [Telling your data’s story](http://radar.oreilly.com/2015/03/telling-your-datas-story.html)
 1. Plichta Oskar.<br>
    [Tworzenie przyjaznego interfejsu użytkownika w aplikacjach do udostępniania fotografii](https://github.com/oplichta/magisterka)
 1. Sott Tomasz.<br>
