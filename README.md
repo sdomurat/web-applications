@@ -24,7 +24,7 @@ or
 1. Conveying the intuition is primary, not secondary.
 
 
-## Aplikacje Webowe 2
+## Aplikacje Webowe  2
 
 > On the average, five times as many people read the headline as read the body copy.<br>
 > When you have written your headline, you have spent eighty cents out of your dollar.<br>
